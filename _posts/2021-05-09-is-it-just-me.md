@@ -3,8 +3,12 @@ layout: post
 title: Is It Just Me?
 date: 2021-05-09
 tags: [Genetics, nurture-nature, individualism]
+weight: 1
 excerpt_separator: <!--more-->
 ---
+
+{% assign posts = site.posts | sort: 'weight' %}
+{% for post in posts %}
 
 <br><br>
 <p align="justify">
@@ -49,3 +53,5 @@ All of this makes perfect sense with two major caveats. The first is that the tr
 The second caveat is that the CBT treatment must be applied to every aspect of a person's life where OCD manifests itself. This is the tricky part, because OCD is not only about compulsive washing or checking; it can take many other forms, which are beginning to attract the attention of scientists. For example, compulsive shopping and eating are two of these examples. And due to their structures, the treatment proves ineffective if the compulsive behaviour is not correctly detected. For CBT to work, it is essential to detect the obsessive and compulsive components of the OCD. In other words, in order to treat the condition, we need to know what triggers the anxiety, and what we do to overcome the anxiety. Some argue that that this is sufficient to break the cycle, and that detection of the underlying fear is not necessary. Their rationale is that regardless of the underlying fear, the absence of behavioural response to the mind's perception of a fear, is a sufficient incentive for the mind to recognise it being fake. I argue otherwise. Not only do I argue it is essential to detect the underlying fear, I think it is important to zoom out even further and look at the environmental triggers that may be involved in creation of the underlying fear. In the absence of awareness of the environmental triggers, no devised solution can be sustainable, because the source of anxiety can be, and often is, in constant supply, hence generating new ways to create the fear among those suffering from it. On the other hand, the number of people suffering from anxiety and depression is more than it should have been, if it was meant to be an exception than a rule. In addition to those who have received formal diagnoses, and whose characteristics can be explained by an anxiety disorder or depression, it is extremely easy to find people not being clinically ill, and yet complain about the same problems. In other words, I think mental health problems, and especially anxiety, depression and addiction, must be studied at a scale larger than that of the individual. This is how I found myself interested in studying economics and sociology, and the reason why this website was born. 
 
 </p>
+
+{% endfor %}
