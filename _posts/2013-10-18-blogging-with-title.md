@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "" 
-hide: true
+title: >
+    Blogging with Title
+unpublished: true
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
