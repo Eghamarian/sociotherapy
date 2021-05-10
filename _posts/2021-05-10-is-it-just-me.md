@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Is It Just Me?
-tags: [A Tag, Test, Lorem, Ipsum]
-
+tags: [Genetics, nurture-nature, individualism]
 ---
 
 <br><br>
