@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Feature images
+published: false
 feature-img: "assets/img/feature-img/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
 tags: [Test, Lorem]
