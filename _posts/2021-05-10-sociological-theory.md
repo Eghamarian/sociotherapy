@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sociological Tools for Pathology of Anxiety and Depression
+date: 10-05-2021
 tags: [sociological theory, economic theory, zugmunt bauman, karl polanyi, liberalism, neo-liberalism, disembedded markets, anxiety, depression]
 excerpt_separator: <!--more-->
 ---
