@@ -2,12 +2,15 @@
 layout: post
 title: Is It Just Me?
 tags: [Genetics, nurture-nature, individualism]
+excerpt_separator: <!--more-->
 ---
 
 <br><br>
 <p align="justify">
 
 The initial questions I set out to answer was inspired by the diagnoses I received from professionals. Most of these professionals believed I was either bipolar, or had Obsessive Compulsive Disorde (OCD); and of the two, majority believed my condition was better described by OCD than bipolarity. This is why the initial task I set for myself was to understand OCD and its roots. In my search, I found that OCD is defined as an anxiety disorder, where a coping mechanism, often in the form of behavioural rituals, is taken up to reduce the anxiety. This is essentially the same mechanism that keeps us clear of dangers; in face of real threats, our brain shifts into either fight or flight mode based on its analysis of the situation. However, people with OCD manifest the same biological and physiological characteristics in the absence of a real threat. In response to their perceived threat, people with OCD often devise a coping mechanism, which they believe, can mitigate the problem.  
+
+<!--more-->
 
 When it comes to the root of the problem, there are two parallel and often complementary explanations. Some believe OCD is due to childhood experiences, while some have even gone further to suggest there are genetic components to it. I have to adm it here that, like many others, I have always had a tendency to find genetics to provide a compelling and indisputable explanations for biological events. This is partly becuase it gives me a sense of solidity. If a condition is genetic, I can close the case with a single, clean and conclusive explanation for the problem. I can then move on to detect environmental stimuli, which further activate, or defuse the condition, knowing full well that the best I can do is to tone the genes down and nothing more. In other words, genetics as a sicentific explanation gives me a satisfaction attributed to a sense of completion, a feeling that cannot be attributed to environmental factors. Take anxiety as an example. From an environmental perspective, anxiety can be a condition with a genetic component, as well as a condition developed after traumatic experiences. It can be learned through modelling, or the symptom of religious beliefs. I can continue to list triggers of anxiety and never feel I have covered all of them. However, if I could prove genes were responsible for anxiety, a sense of conclusion would soon ensue. Last but not least, the nuature-nurture debate is at the heart of every debate when it comes to ailments, personality types, characteristics, abilities and everything else which can be studied about humans.  <br><br>
 
