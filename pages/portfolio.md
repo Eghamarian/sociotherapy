@@ -1,5 +1,6 @@
 --- 
 layout: page
+Hide: true
 title : Portfolio 
 permalink: /portfolio/
 subtitle: "Projects I am working on" 
