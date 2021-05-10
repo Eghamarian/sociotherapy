@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Generate a table of content
+published: false
 tags: [toc.js, kramdown, Markdown, Customization]
 author: sylhare
 excerpt_separator: <!--more-->
