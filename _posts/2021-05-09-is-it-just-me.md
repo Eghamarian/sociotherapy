@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Is It Just Me?
-weight: 1
 tags: [Genetics, nurture-nature, individualism]
 excerpt_separator: <!--more-->
 ---
-
-{% assign posts = site.posts | sort: 'weight' %}
-{% for post in posts %}
 
 <br><br>
 <p align="justify">
@@ -53,4 +49,3 @@ The second caveat is that the CBT treatment must be applied to every aspect of a
 
 </p>
 
-{% endfor %}
