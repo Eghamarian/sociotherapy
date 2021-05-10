@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Color Post
+published: false
 tags: [Test, Color, Markdown]
 color: brown
 author: sylhare
