@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Markup: Syntax Highlighting"
+published: false
 author: mmistakes
 tags: [code]
 ---
