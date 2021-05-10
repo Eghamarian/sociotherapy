@@ -2,7 +2,7 @@
 layout: post
 title: >
     Blogging with Title
-    hide: true
+    published: false
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
