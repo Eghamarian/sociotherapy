@@ -1,6 +1,6 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: "ehsan.ghamarian@gmail.com"   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
@@ -29,12 +29,12 @@ feed:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
-  tumblr: true
-  pinterest: true
+  facebook: false
+  twitter: false
+  tumblr: false
+  pinterest: false
   pocket:
-  reddit: true
-  linkedin: true
+  reddit: false
+  linkedin: false
   wordpress:
   email: true
