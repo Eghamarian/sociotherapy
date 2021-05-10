@@ -5,8 +5,6 @@ tags: [Genetics, nurture-nature, individualism]
 excerpt_separator: <!--more-->
 ---
 
-{% assign sortedPosts = site.post | sort: 'date' | reverse %}
-
 <br><br>
 <p align="justify">
 
