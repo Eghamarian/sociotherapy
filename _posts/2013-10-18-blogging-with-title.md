@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >
-    Blogging with title 
+title: > Blogging with title 
 hide: true
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
