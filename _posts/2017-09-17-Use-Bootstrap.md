@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bootstrap"
+published: false
 bootstrap: true
 tags: [bootstrap]
 ---
