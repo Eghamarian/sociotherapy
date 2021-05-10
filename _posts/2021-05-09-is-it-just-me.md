@@ -3,6 +3,7 @@ layout: post
 title: Is It Just Me?
 tags: [Genetics, nurture-nature, individualism]
 excerpt_separator: <!--more-->
+order: "1"
 ---
 
 <br><br>
