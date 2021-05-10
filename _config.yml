@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://www.sociotherapy.net"
+url: "https://www.sociotherapy.net/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
