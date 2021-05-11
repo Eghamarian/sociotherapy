@@ -6,6 +6,7 @@ layout: page
 
     <!-- cycles through posts to get tags -->
     {% assign rawtags = "" %}
+    {% assign posts = site.posts | sort: 'weight' %}
     {% for post in site.posts %}
     {% if post.tags.size > 0 %}
     {% assign post_tags = post.tags | join:'|' | append:'|' %}
@@ -57,7 +58,6 @@ layout: page
             {% endfor %}
 
             <!-- Posts -->
-            {% assign posts = site.posts | sort: 'weight' %}
             {% for post in site.posts %}
             {% if post.tags contains tag %}
             <h5 class="tag-title">
