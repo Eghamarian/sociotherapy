@@ -6,7 +6,7 @@ layout: page
 
     <!-- cycles through posts to get tags -->
     {% assign rawtags = "" %}
-    {% for post in site.posts | reverse %}
+    {% for post in site.posts %}
     {% if post.tags.size > 0 %}
     {% assign post_tags = post.tags | join:'|' | append:'|' %}
     {% assign rawtags = rawtags | append:post_tags %}
@@ -57,7 +57,7 @@ layout: page
             {% endfor %}
 
             <!-- Posts -->
-            {% for post in site.posts | reverse %}
+            {% for post in site.posts %}
             {% if post.tags contains tag %}
             <h5 class="tag-title">
                 <a href="{{ post.url | relative_url }}">
