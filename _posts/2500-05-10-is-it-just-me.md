@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Just Me?
-date: ""
+date: null
 tags: [Genetics, nurture-nature, individualism]
 excerpt_separator: <!--more-->
 ---
