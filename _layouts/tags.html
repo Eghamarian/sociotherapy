@@ -57,6 +57,7 @@ layout: page
             {% endfor %}
 
             <!-- Posts -->
+            {% assign posts = site.posts | sort: 'weight' %}
             {% for post in site.posts %}
             {% if post.tags contains tag %}
             <h5 class="tag-title">
