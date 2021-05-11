@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is It Just Me?
+date: 2021-05-09
 tags: [Genetics, nurture-nature, individualism]
 excerpt_separator: <!--more-->
 ---
