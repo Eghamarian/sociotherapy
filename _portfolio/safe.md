@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sociological Toolbox
-feature-img: "assets/img/portfolio/sociological-toolbox.jpeg"
-img: "assets/img/portfolio/safe.png"
+feature-img: "assets/img/pexels/search-map.jpeg"
+img: "assets/img/portfolio/sociological-toolbox.jpeg"
 date: August, 16 2014
 tags: [Ipsum]
 ---
