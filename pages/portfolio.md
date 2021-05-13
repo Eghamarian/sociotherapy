@@ -3,7 +3,7 @@ layout: page
 title : Book
 permalink: /portfolio/
 subtitle: "A Sociological Perspective on Mental Health" 
-feature-img: "assets/img/pexels/computer.jpeg"
+feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [Archive]
 ---
 
