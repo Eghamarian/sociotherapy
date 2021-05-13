@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Is It Just Me?
-feature-img: "assets/img/pexels/search-map.jpeg"
 img: "assets/img/portfolio/is-it-just-me.jpeg"
 date: April, 08 2014
 tags: [Lorem]
