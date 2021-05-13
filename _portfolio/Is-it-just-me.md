@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ninja
-img: "assets/img/portfolio/is-it-just-me.png"
+img: "assets/img/portfolio/is-it-just-me.jpeg"
 date: April, 08 2014
 tags: [Lorem]
 ---
