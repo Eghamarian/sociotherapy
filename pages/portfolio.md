@@ -1,8 +1,8 @@
 --- 
 layout: page
-title : Portfolio 
+title : Book
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "A Sociological Perspective on Mental Health" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
