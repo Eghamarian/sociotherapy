@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Creative
-feature-img: "assets/img/portfolio/safe.png"
+title: Sociological Toolbox
+feature-img: "assets/img/portfolio/sociological-toolbox.jpeg"
 img: "assets/img/portfolio/safe.png"
 date: August, 16 2014
 tags: [Ipsum]
