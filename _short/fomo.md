@@ -7,8 +7,9 @@ tags: [Ipsum]
 ---
 
 <br><br>
+<div align="center">
 Fear has been the driving force in my life; <br>
 fear of missing out.<br>
 And I missed out on every amazing thing before my eyes.
-
+</div>
 <br><br>
