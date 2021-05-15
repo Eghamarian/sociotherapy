@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Fear Of Missing Out
+title: FOMO
 img: "assets/img/short/fomo.jpeg"
 date: May, 14 2021
-tags: [Ipsum]
+tags: [fear of missing out, fomo]
 ---
 
 <br><br>
@@ -12,6 +12,9 @@ Fear has been the driving force in my life; <br>
 fear of missing out.<br>
 And I missed out on every amazing thing before my eyes.
 </div>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
