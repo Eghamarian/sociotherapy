@@ -39,6 +39,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:name
+    
+# SHORT
+collections:
+  short:
+    output: true
+    permalink: /:collection/:name    
 
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
