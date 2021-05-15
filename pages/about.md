@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+nav_order: 1
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About, Archive]
