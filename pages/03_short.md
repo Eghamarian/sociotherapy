@@ -7,5 +7,5 @@ feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Archive]
 ---
 
-{% include portfolio.html %}
+{% include short.html %}
  
