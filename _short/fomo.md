@@ -2,7 +2,7 @@
 layout: post
 title: Fear Of Missing Out
 img: "assets/img/short/fomo.jpeg"
-date: August, 16 2014
+date: May, 14 2021
 tags: [Ipsum]
 ---
 
