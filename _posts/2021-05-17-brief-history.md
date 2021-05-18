@@ -14,18 +14,13 @@ excerpt_separator: <!--more-->
 | My Caption |-->
 
 
-<!--<p align="center">
+<p align="center">
   <img alt="Familyrelationships" src="/assets/img/pexels/Familyrelationships.png">
   <br>
     <em>Royal family ties at WWI</em>
-</p>-->
+</p>
 
-{%
-    include figure.html 
-    src="/assets/img/pexels/Familyrelationships.png" 
-    caption="Royal Family Ties at WWI (<a href='https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/'>source</a>)"
-    href="https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
-%}
+
 
 
 Royal Family Ties at WWI[^1]
