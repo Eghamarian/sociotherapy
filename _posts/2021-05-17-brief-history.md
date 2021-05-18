@@ -23,6 +23,9 @@ excerpt_separator: <!--more-->
     <em>Royal Family Ties at WWI[^1]</em>
 </p>
 
+Royal Family Ties at WWI[^1]
+
+
 "https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
 
 
