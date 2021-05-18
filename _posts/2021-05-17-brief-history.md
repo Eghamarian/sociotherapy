@@ -7,4 +7,8 @@ excerpt_separator: <!--more-->
 
 
 
-{% include image.html src="pexels/Familyrelationships.png" url= "https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/" %}
+{% include image.html src="pexels/Familyrelationships.png" caption= "Royal Family Ties at WWI[^1]" %}
+
+[^1]: 
+    {% include citation.html key="ref1" %}
+url= "https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
