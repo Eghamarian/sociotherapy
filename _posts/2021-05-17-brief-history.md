@@ -13,8 +13,15 @@ excerpt_separator: <!--more-->
 
 <!--{% include image.html url="/assets/img/pexels/Familyrelationships.png" description="Royal Family Ties at WWI [^1]" %}-->
 
-| <img src="/assets/img/pexels/Familyrelationships.png" alt="" style="width: 400px;"/> |
-| My Caption |
+<!--| <img src="/assets/img/pexels/Familyrelationships.png" alt="" style="width: 400px;"/> |
+| My Caption |-->
+
+
+<p align="center">
+  <img alt="Familyrelationships" src="/assets/img/pexels/Familyrelationships.png" width="300">
+  <br>
+    <em>caption</em>
+</p>
 
 
 [^1]: 
