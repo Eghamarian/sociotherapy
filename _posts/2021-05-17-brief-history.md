@@ -7,7 +7,8 @@ excerpt_separator: <!--more-->
 
 
 
-{% include image.html src="pexels/Familyrelationships.png" caption= "Royal Family Ties at WWI[^1]" %}
+{% include image.html src="pexels/Familyrelationships.png" caption= "Royal Family Ties at WWI" %}
+[^1]
 
 [^1]: 
     {% include citation.html key="ref1" %}
