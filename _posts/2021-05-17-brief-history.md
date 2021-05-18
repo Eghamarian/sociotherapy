@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 <p align="center">
   <img alt="Familyrelationships" src="/assets/img/pexels/Familyrelationships.png">
   <br>
-    <em>caption</em>
+    <em>Royal Family Ties at WWI[^1]</em>
 </p>
 
 
