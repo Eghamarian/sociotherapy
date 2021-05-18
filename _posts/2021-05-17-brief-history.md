@@ -23,7 +23,7 @@ excerpt_separator: <!--more-->
     <em>Royal Family Ties at WWI[^1]</em>
 </p>
 
+"https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
 
-[^1]: 
-    {% include citation.html key="ref1" %}
-url= "https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
+
+[^1]: {% include citation.html key="ref1" %}
