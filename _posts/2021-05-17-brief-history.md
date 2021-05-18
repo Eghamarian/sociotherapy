@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 
 
 <p align="center">
-  <img alt="Familyrelationships" src="/assets/img/pexels/Familyrelationships.png" width="300">
+  <img alt="Familyrelationships" src="/assets/img/pexels/Familyrelationships.png">
   <br>
     <em>caption</em>
 </p>
