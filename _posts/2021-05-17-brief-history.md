@@ -23,14 +23,18 @@ excerpt_separator: <!--more-->
     <em><li><a href="{{ https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/ }}">{{ Royal family ties at WWI }}</a></li></em>
 </p>-->
 
-{%
+<!---{%
     include figure.html 
     src="/assets/img/pexels/Familyrelationships.png" 
     caption="Royal Family Ties at WWI"
     href="https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
-%}
+%}-->
 
-
+{% include image.html
+            img="/assets/img/pexels/Familyrelationships.png"
+            title="Royal Family Ties at WWI"
+            caption="Royal Family Ties at WWI"
+            url="https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/" %}
 
 <link rel="canonical" href="https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/">
 
