@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 | *Space* |-->
 
 
-<!--{% include image.html url="/assets/img/pexels/Familyrelationships.png" description="Royal Family Ties at WWI [^1]" %}-->
+{% include image.html url="/assets/img/pexels/Familyrelationships.png" description="Royal Family Ties at WWI [^1]" %}
 
 <!--| <img src="/assets/img/pexels/Familyrelationships.png" alt="" style="width: 400px;"/> |
 | My Caption |-->
@@ -24,12 +24,12 @@ excerpt_separator: <!--more-->
 </p>-->
 
 
-{%
+<!--{%
     include figure.html 
     src="/assets/img/pexels/Familyrelationships.png" 
     caption="Royal Family Ties at WWI"
     href="https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
-%}
+%}-->
  
   
 <!---{% include image.html
