@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 <p align="center">
   <img alt="Familyrelationships" src="/assets/img/pexels/Familyrelationships.png">
   <br>
-    <em><a>Royal Family Ties at WWI[^1]</a></em>
+    <em><a href="{{ https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/ }}">{{ Royal family ties at WWI }}</a></em>
 </p>
 
 Royal Family Ties at WWI[^1]
