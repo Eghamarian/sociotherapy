@@ -44,7 +44,7 @@ The last objection you may have, is that the access of big corporations to capit
 
 <br><br>
 
-To go back to the topic of this article and talk about “How to be successful”, which seems to be a money maker for many motivational speakers, I would argue that success has nothing to do with talent or hard work. To answer the question, I am going to focus only on financial aspect of success. The reason for this is that, financial resources are the only target of success that is of limited supply. It does not matter how many obsessed physicists we already have, there is always room for more people to join because the target of obsession is not in limited supply. Money is different, because one person's success inevitably leads to others' failure. With that in mind, let me tackle the question.  
+To go back to the topic of this article and talk about “How to be successful”, which seems to be a money maker for many motivational speakers, I would start by arguing that success has nothing to do with talent or hard work. However, before sharing the instructions I am going to disclaim that my focus here is only on financial success. The reason for this is that, financial resources are the only target of success that is of limited supply. It does not matter how many obsessed physicists already exist, there is always room for more physicists, because the target of obsession is not in limited supply. Money is different, because one person's success inevitably leads to others' failure. With that in mind, let me tackle the question.  
 
 <br><br>
   
