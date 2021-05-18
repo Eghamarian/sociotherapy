@@ -8,10 +8,9 @@ excerpt_separator: <!--more-->
 
 <!--| ![Familyrelationships.png](/assets/img/pexels/Familyrelationships.png) | 
 |:--:| 
-| *Space* |-->
+| *Space* |
 
-
-<!--| <img src="/assets/img/pexels/Familyrelationships.png" alt="" style="width: 400px;"/> |
+| <img src="/assets/img/pexels/Familyrelationships.png" alt="" style="width: 400px;"/> |
 | My Caption |-->
 
 
@@ -21,20 +20,6 @@ excerpt_separator: <!--more-->
     <em>Royal family ties at WWI</em>
 </p>
 
-
-<!--{%
-    include figure.html 
-    src="/assets/img/pexels/Familyrelationships.png" 
-    caption="Royal Family Ties at WWI"
-    href="https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/"
-%}-->
- 
-  
-<!---{% include image.html
-            url="/assets/img/pexels/Familyrelationships.png"
-            title="Familyrelationships"
-            caption="Royal Family Ties at WWI"
-            href="https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/" %}-->
 
 Royal Family Ties at WWI[^1]
 
