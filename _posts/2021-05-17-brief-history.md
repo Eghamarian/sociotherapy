@@ -7,4 +7,4 @@ excerpt_separator: <!--more-->
 
 
 
-{% include image.html images="pexels/Familyrelationships.png" url= "https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/" %}
+{% include image.html src="pexels/Familyrelationships.png" url= "https://www.brookings.edu/blog/brookings-now/2013/12/20/the-family-relationships-that-couldnt-stop-world-war-i/" %}
