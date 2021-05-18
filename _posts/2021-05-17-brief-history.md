@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Really Be Successful!
+title: A Brief History of teh 20th Century
 tags: [Genetics, nurture-nature, individualism]
 excerpt_separator: <!--more-->
 ---
