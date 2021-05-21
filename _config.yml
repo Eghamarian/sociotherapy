@@ -35,7 +35,9 @@ paginate: 5
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO
-collections: [portfolio, short]
+collections:
+  portfolio:
+  short:
     output: true
     permalink: /:collection/:name
     
