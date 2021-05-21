@@ -37,9 +37,14 @@ paginate_path: "/blog/page:num"
 # PORTFOLIO
 collections:
   portfolio:
-  short:
     output: true
     permalink: /:collection/:name
+    
+# SHORT
+collections:
+  short:
+    output: true
+    permalink: /:collection/:name    
 
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
