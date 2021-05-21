@@ -2,7 +2,7 @@
 layout: post
 title: Sociological Toolbox
 img: "assets/img/portfolio/sociological-toolbox.jpeg"
-date: August, 16 2014
+date: August 16 2014
 tags: [Ipsum]
 ---
 
