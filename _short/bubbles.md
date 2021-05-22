@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bubbles
-img: "assets/img/short/fomo.jpeg"
+img: "assets/img/short/bubbles.jpeg"
 date: May, 14 2021
 tags: [bubbles]
 ---
