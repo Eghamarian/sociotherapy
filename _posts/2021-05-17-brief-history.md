@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Brief History of the 20th Century
+published: false
 tags: [Genetics, nurture-nature, individualism]
 excerpt_separator: <!--more-->
 ---
