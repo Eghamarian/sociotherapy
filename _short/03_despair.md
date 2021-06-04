@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Despair
-img: "assets/img/portfolio/despair.jpeg"
+img: "assets/img/short/despair.jpeg"
 date: May, 15 2021
 tags: [Ipsum]
 ---
