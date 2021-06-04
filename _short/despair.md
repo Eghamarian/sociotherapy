@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fear Of Missing Out
+title: Despair
 img: "assets/img/portfolio/circus.png"
 date: May, 15 2021
 tags: [Ipsum]
