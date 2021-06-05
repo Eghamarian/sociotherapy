@@ -3,7 +3,7 @@ layout: post
 title: Despair
 img: "assets/img/short/despair.jpeg"
 date: May, 15 2021
-tags: [Ipsum]
+tags: [Despair, Desperation]
 ---
 
 <br><br>
