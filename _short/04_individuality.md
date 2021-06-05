@@ -5,7 +5,7 @@ img: "assets/img/short/individuality.jpeg"
 date: june, 4 2021
 tags: [Ipsum]
 ---
-
+ 
 <br><br>
 <div align="center">
 
