@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Individuality
-img: "assets/img/portfolio/github.png"
+img: "assets/img/short/individualism.jpeg"
 date: June, 4 2021
 tags: [Ipsum]
 ---
