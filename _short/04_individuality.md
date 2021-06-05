@@ -26,7 +26,7 @@ Even out most intimate moments are appreciated proportional to the number of vie
 
 We yearn for acknowledgment so much, that we are uncertain whether we experience thing, unless it is seen and liked.<br><br>
 
-This conversation is already not, or will soon stop to be strange:<br><br>
+This conversation is already not, or will soon stop to be, strange:<br><br>
   
 <em>I touch myself here and you touch yourself there.<br>
 We then split the screen; I take half, and you the other half.<br>
