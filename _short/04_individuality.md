@@ -28,9 +28,9 @@ We yearn for acknowledgment so much, that we are uncertain whether we experience
 
 This conversation is already not, or will soon stop to be strange:<br><br>
   
-I touch myself here and you touch yourself there.<br>
+<em>I touch myself here and you touch yourself there.<br>
 We then split the screen; I take half, and you the other half.<br>
-We will decide how fulfilling it was after we count the likes. <br>
+  We will decide how fulfilling it was after we count the likes. </em><br>
   
 I thought I was immature, and I hated myself for it.<br>
 But the entire humanity does it, and does it often.<br>
