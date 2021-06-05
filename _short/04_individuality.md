@@ -25,3 +25,11 @@ Even out most intimate moments are appreciated proportional to the number of vie
 We yearn for acknowledgment so much that we are uncertain whether we experience thing unless it is seen and approved by public.
 I thought I was immature, and I hated myself for it.
 But the entire humanity does it, and does it often.
+
+</div>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
