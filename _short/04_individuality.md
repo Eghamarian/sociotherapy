@@ -16,7 +16,7 @@ But the entire humanity does it, and does it often.<br>
 We all want things at times.<br>
 We all want things so bad at times that we fight for them.<br>
 We want them so bad that we die for them. <br>
-But then we realize, if we are wise, we were no different than kids on tantrums, demanding what they do not need.<br>
+But then we realize, if we are wise, we were no different than kids on tantrums, demanding what we did not need.<br>
 Individuality is one of those.<br>
 We wanted it so bad, we tore all common threads connecting us to each other.<br>
 Now we long for common values more than ever.<br>
