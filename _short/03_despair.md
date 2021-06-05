@@ -11,8 +11,8 @@ tags: [Despair, Desperation]
 
   
   It is never satisfied. <br>
-  Even when it reaches the end,<br>
-  it pushes your threshold to cause you more pain.<br>
+  Even when it reaches your tolerance threshold,<br>
+  it keeps pushing your limit to cause you more pain.<br>
   It's a greedy condition, despair.<br>
   
 <br><br>
