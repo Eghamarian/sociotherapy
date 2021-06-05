@@ -23,7 +23,15 @@ Now we long for common values more than ever.<br>
 But since we got rid of all publis interests, our private interests are showcasing on public stage.<br>
 Out iindividual loneliness is on piblc display.<br>
 Even out most intimate moments are appreciated proportional to the number of views or likes they get.<br> 
-We yearn for acknowledgment so much, that we are uncertain whether we experience thing, unless it is seen and liked.<br>
+
+We yearn for acknowledgment so much, that we are uncertain whether we experience thing, unless it is seen and liked.<br><br>
+
+This conversation is already not, or will soon stop to be strange:<br><br>
+  
+I touch myself here and you touch yourself there.<br>
+We then split the screen; I take half, and you the other half.<br>
+We will decide how fulfilling it was after we count the likes. <br>
+  
 I thought I was immature, and I hated myself for it.<br>
 But the entire humanity does it, and does it often.<br>
 
