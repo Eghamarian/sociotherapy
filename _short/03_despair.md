@@ -10,7 +10,7 @@ tags: [Despair, Desperation]
 <div align="center">
 
   
-  It is never satisfied; <br>
+  It is never satisfied. <br>
   Even when it reaches the end,<br>
   it pushes your threshold to cause you more pain.<br>
   It's a greedy condition, despair.<br>
