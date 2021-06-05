@@ -9,7 +9,7 @@ tags: [bubbles]
 <br><br>
 <div align="center">
 When under water, your screams transform into trapped air. <br>
-When under water for long, you will learn no longer to bother. <br>
+When under water for long, you will learn, no longer to bother. <br>
 When under water all your life, you become translucent; <br>
 like water; <br>
 You become a dreamer of voices and air; <br> 
