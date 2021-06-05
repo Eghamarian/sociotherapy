@@ -11,11 +11,11 @@ tags: [Ipsum]
 
 
 
-I always thought I was immature and I hated myself for it.<br>
+I always thought I was immature, and I hated myself for it.<br>
 But the entire humanity does it, and does it often.<br>
 We all want things at times.<br>
-We all want things so bad at times, we fight for them.<br>
-We want them so bad, we kill for them. <br>
+We all want things so bad at times, that we fight for them.<br>
+We want them so bad, thta we kill for them. <br>
 But then we realize, if we are wise, we were no different than kids on tantrums, demanding what they do not need.<br>
 Individuality is one of those.<br>
 We wanted it so bad, we tore all the common threads connecting us to each other.<br>
