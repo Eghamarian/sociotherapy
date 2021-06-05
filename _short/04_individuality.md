@@ -11,20 +11,21 @@ tags: [Ipsum]
 
 
 
-I always thought I was immature and I hated myself for it.
-But the entire humanity does it, and does it often.
-We all want things at times;
-We all want things so bad at times, we fight for them,
-We want them so bad, we kill for them. 
-But then we realize, if we are wise, we were no different than a kid on a tantrum, demanding what they do not need.
-Individuality is one of those.
-We wanted it so bad, we tore all the common threads connecting us to each other.
-Now we long for common values more than ever.
-But since we got rid of all publis interests, our private interests are showcasing on public stage.
-Even out most intimate moments are appreciated proportional to the number of views or likes they get. 
-We yearn for acknowledgment so much that we are uncertain whether we experience thing unless it is seen and approved by public.
-I thought I was immature, and I hated myself for it.
-But the entire humanity does it, and does it often.
+I always thought I was immature and I hated myself for it.<br>
+But the entire humanity does it, and does it often.<br>
+We all want things at times;<br>
+We all want things so bad at times, we fight for them,<br>
+We want them so bad, we kill for them. <br>
+But then we realize, if we are wise, we were no different than kids on tantrums, demanding what they do not need.<br>
+Individuality is one of those.<br>
+We wanted it so bad, we tore all the common threads connecting us to each other.<br>
+Now we long for common values more than ever.<br>
+But since we got rid of all publis interests, our private interests are showcasing on public stage.<br>
+Out iindividual loneliness is on piblc display.<br>
+Even out most intimate moments are appreciated proportional to the number of views or likes they get.<br> 
+We yearn for acknowledgment so much, that we are uncertain whether we experience thing, unless it is seen and liked.<br>
+I thought I was immature, and I hated myself for it.<br>
+But the entire humanity does it, and does it often.<br>
 
 </div>
 <br><br>
