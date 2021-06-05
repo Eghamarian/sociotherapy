@@ -3,7 +3,7 @@ layout: post
 title: Individuality
 img: "assets/img/short/individuality.jpeg"
 date: june, 4 2021
-tags: [Ipsum]
+tags: [individuality, individualism]
 ---
  
 <br><br>
