@@ -9,7 +9,7 @@ tags: [decay, birth, evolution]
 <br><br>
 <div align="center">
 Looking from high above, the current is towards decay.<br>
-Coming a little closer, the norm is to surrender to decay. <br>
+Coming a little closer, the norm is to surrender. <br>
 Zooming yet a little further, organisms are visible, with their tongues out, and their hands flapping next to their ears.<br>
 Coming close enough so we can hear, the message is that they give birth and create despite their fear. <br>
 To not let it get its way, is all they can do to fight decay.<br>
