@@ -2,7 +2,7 @@
 layout: post
 title: Decay
 img: "assets/img/short/fomo.jpeg"
-date: May, 14 2021
+date: June, 9 2021
 tags: [decay, birth, evolution]
 ---
 
