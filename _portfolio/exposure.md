@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exposure  
-img: "assets/img/portfolio/circus.png"
+img: "assets/img/portfolio/exposure.jpeg"
 date: September 2014
 tags: [Ipsum]
 ---
