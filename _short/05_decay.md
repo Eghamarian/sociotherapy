@@ -13,7 +13,7 @@ Coming a little closer, the norm is to surrender to decay. <br>
 Zooming yet a little further, organisms are visible, with their tongues out, and their hands flapping next to their ears.<br>
 Coming close enough so we can hear, the message is that they give birth and create despite their fear. <br>
 To not let it get its way, is all they can do to fight decay.<br>
-And blessed are those, who are close enough to hear, and doomed, those who are far away to only see the decay.<br>
+And blessed are those, who are close enough to hear, and doomed, those who are far away to only witness the fray.<br>
   
 </div>
 <br><br>
