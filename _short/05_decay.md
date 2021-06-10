@@ -3,7 +3,7 @@ layout: post
 title: Decay
 img: "assets/img/short/fomo.jpeg"
 date: May, 14 2021
-tags: [fear of missing out, fomo]
+tags: [decay, birth, evolution]
 ---
 
 <br><br>
