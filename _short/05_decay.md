@@ -11,7 +11,7 @@ tags: [decay, birth, evolution]
 Looking from high above, the current is towards decay.<br>
 Coming a little closer, the norm is to surrender. <br>
 Zooming yet a little further, organisms are visible, with their tongues out, and their hands flapping next to their ears.<br>
-Coming close enough so we can hear, they laugh in face of their fear. <br>
+They laugh in face of their fear. <br>
 They will die, but continue to create life. <br>  
 They will loose, but refuse to let decay get its way.<br>
 And blessed are those, who are close enough to hear, and doomed, those who are far away, and only witness the fray.<br>
