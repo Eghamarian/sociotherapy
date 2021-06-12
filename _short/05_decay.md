@@ -13,8 +13,8 @@ Coming a little closer, the norm is to surrender. <br>
 Zooming yet a little further, organisms are visible, <br>
 with their tongues out, and their hands flapping next to their ears.<br>
 They laugh in face of their fears. <br>
-They will die, but continue to create life. <br>  
-They will loose, but refuse to let decay get its way.<br>
+They know they will die, but keep creating life. <br>  
+They know they will loose, but refuse to let decay get its way.<br>
 And blessed are those, who are close enough to hear, <br>
 and doomed, those who are far away, and only witness the fray.<br>
   
