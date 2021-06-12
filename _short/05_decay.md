@@ -15,7 +15,7 @@ with their tongues out, and their hands flapping next to their ears.<br>
 Coming closer so we can hear, they laugh in face of their fears. <br>
 They know they will die, but continue to bear life. <br>  
 They know they will loose, but refuse to let decay get its way.<br> 
-And I'm thinking, blessed are those, who are close enough to hear, <br>
+And I'm thinking, blessed are those, who are close enough to hear; <br>
 and doomed, those who are far away, and only witness the fray.<br>
   
 </div>
