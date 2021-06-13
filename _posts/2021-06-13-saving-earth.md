@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Europe is vulnerable against the US
-tags: [capitalism, socialism, madman strategy, game theory, ricky gervais]
+title: Saving The Earth
+tags: [innovation, saving the earth, environment]
 excerpt_separator: <!--more-->
 ---
 
