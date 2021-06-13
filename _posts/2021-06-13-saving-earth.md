@@ -5,6 +5,8 @@ tags: [innovation, saving the earth, environment, Blue Origin]
 excerpt_separator: <!--more-->
 ---
 
+<!-- Jeff Bezos, introduces Blue Origin as the Earth's salvation, in face of the inevitable environmental crisis. -->
+
 <br>
 <br>
 <br>
