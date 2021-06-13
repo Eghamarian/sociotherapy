@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saving The Earth
-tags: [innovation, saving the earth, environment, blue origin]
+tags: [innovation, saving the earth, environment, Blue Origin]
 excerpt_separator: <!--more-->
 ---
 
