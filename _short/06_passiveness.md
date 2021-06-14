@@ -26,9 +26,12 @@ We hope while we sleep, our post frees Julian Assange, our like saves the Earth,
 But while we sleep, nothing happens. <br>
 Nothing happens except our links and likes and posts enter the magnetic field of social media, and become polarized and shot into distant poles; 
 where they are liked or hated by other passive activists. <br>
-Even then, the number of likes never beat the cute cat, the sexy 18-year-old big bang, and the dance videos. <br>
+Even then, the number of likes never beat the cute cat, the sexy 18-year-old big bang, and the dance videos. <br> 
 So, basically, our links and likes and posts are thrown into a blackhole while we sleep, just like a dream; <br>
 as if they were never real, and will never be.<br>
+And the politicians are ecstatic about this.<br>
+Once in a while, they summon the giants and put on a show of telling them off.<br>
+But every time, they send them back to their duty of diffusing people's tendency to be active and unified. <br>
 
 
 </div>
