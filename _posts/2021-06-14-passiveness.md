@@ -25,7 +25,7 @@ Giant's Boss: Yes, senator. <br>
 Senator: Can you provide so and so information to this committee?. <br>
 Giant's Boss: Senator, that is something that I will follow up with you, or your team after the hearing.<br><br>
  
-The question is, do they ever? Shouldn't the senators ask the giants to come back in a week with the requested information? Do they? I guess we never know, because the <b> corporate </b> media is run on a profit-generating model, and hence covers newsworthy and trending news only. They are the judges of what is newsworthy too. As far as I can see, they think the hearing is newsworthy, but the follow-up, not so much.  <br><br>
+The question is, do they ever? Shouldn't the senators ask the giants to come back in a week with the requested information? Do they? I guess we never know, because the <b> corporate </b> media is run on a profit-generating model, and hence covers newsworthy and trending news only. They are the judges of what is newsworthy too. As far as I can see, they think the hearing is newsworthy, but the follow-up, not so much. <br><br>
     
 Again, from where I stand, it appears that every time, the giants are sent back to their duty of diffusing people's tendency to be active and unified, with more of "Cuz I gotta a small waist, pretty face with a big bang".<br>
 
