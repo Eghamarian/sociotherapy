@@ -19,7 +19,7 @@ Thankfully, their secret is easy to find, because sharing it has been a recent t
 The key ingredient is <em> passive </em>; passive income, passive attention, passive weight loss, passive everything. <br>
 Loose weight while eating; learn a language while sleeping, earn a decent salary while sunbathing. <br>
 You may think I want to complain that people now desire to take waiting out of wanting. <br>
-But you are wrong.   <br>
+But that is not my intention.   <br>
 My concern is that passiveness has contaminated more important parts of our lives. <br>
 We now have <b> passive activism </b>, which is when we do our share of activism by clicking on a link, 
 liking a video or leaving a post, before closing our laptop and going to bed.<br>
