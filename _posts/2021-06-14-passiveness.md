@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 <p align="justify">
     
 
-We can hardly look after ourselves, let alone our loved ones. But we are surrounded by digital advertising machines showcasing a few success stories. It makes one drool imagining what it's like to be them. <!--more-->Thankfully, their secret is easy to find, because sharing it has been a recent trend, and they do anything for a few more likes. <br><br>
+We can hardly look after ourselves, let alone our loved ones. But we are surrounded by digital advertising machines showcasing a few success stories. It makes one drool imagining what it's like to be them. <!--more-->Thankfully, their secret is easy to find, because sharing it has been a recent trend, and the so-called successful like a few more likes. <br><br>
     
 The key ingredient is <em> passive </em>; passive income, passive attention, passive weight loss, passive everything. Loose weight while eating; learn a language while sleeping, earn a decent salary while sunbathing. You may think I want to complain that people now desire to take waiting out of wanting. But that is not my intention. My concern is that passiveness has contaminated more important parts of our lives. We now have <b> passive activism </b>, which is when we do our share of activism by clicking on a link, liking a video or leaving a post, before closing our laptop and going to bed.<br><br>
 
