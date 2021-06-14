@@ -31,8 +31,12 @@ So, basically, our links and likes and posts are thrown into a blackhole while w
 as if they were never real, and will never be.<br>
 And the politicians are ecstatic about this.<br>
 Once in a while, they summon the giants and put on a show of telling them off.<br>
-But every time, they send them back to their duty of diffusing people's tendency to be active and unified. <br>
-It seems at the end of the day, nothing matters "Cuz I gotta a small waist, pretty face with a big bang".
+Answer me with a "yes" or a "No". 
+"Yes, senator", 
+"Can you provide so and so information to this committee?".
+"Senator, that is something that I will follow up with you, or your team after the hearing".
+Every time, they send them back to their duty of diffusing people's tendency to be active and unified. <br>
+with more of "Cuz I gotta a small waist, pretty face with a big bang".
 
 
 </div>
