@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 We can hardly look after ourselves, let alone our loved ones. <br>
 But we are surrounded by digital advertising machines showcasing a few success stories. <br>
-It makes one drool imagining what it's like to be them.  <br>
+It makes one drool imagining what it's like to be them.  <br> <!--more-->
 Thankfully, their secret is easy to find, because sharing it has been a recent trend, and they do anything for a few more likes. <br>  
 The key ingredient is <em> passive </em>; passive income, passive attention, passive weight loss, passive everything. <br>
 Loose weight while eating; learn a language while sleeping, earn a decent salary while sunbathing. <br>
