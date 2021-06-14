@@ -29,7 +29,7 @@ Nothing happens except our links and likes and posts enter the magnetic field of
 where they are liked by other passive activists; sometimes. <br>
 Even then, the number of likes never beat the cute cat, the sexy 18-year-old big bang, and the dance videos. <br>
 So, basically, our links and likes and posts are thrown into a blackhole while we sleep, just like a dream; <br>
-As if they were never real, and will never be.<br>
+as if they were never real, and will never be.<br>
 
 
 </div>
