@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Passiveness
-img: "assets/img/short/individuality.jpeg"
-date: june, 4 2021
+img: "assets/img/short/passiveness.jpeg"
+date: june, 13 2021
 tags: [Activisim, Passiveness, Passive Activism]
 ---
  
