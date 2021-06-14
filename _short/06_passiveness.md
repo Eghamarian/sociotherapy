@@ -14,7 +14,8 @@ tags: [Activisim, Passiveness, Passive Activism]
 We can hardly look after ourselves, let alone our loved ones. <br>
 But we are surrounded by digital advertising machines showcasing a few success stories, who made it to the top; 
 the traditionally successful and so-called influencers. <br>
-But their secret is easy to find, because sharing it has been a recent trend, and they do anything for a few more likes. <br>  
+It makes one drool imagining what it's like to be them.  <br>
+Thankfully, their secret is easy to find, because sharing it has been a recent trend, and they do anything for a few more likes. <br>  
 The key ingredient is <em> passive </em>; passive income, passive attention, passive weight loss, passive everything. <br>
 Loose weight while eating; learn a language in sleep, earn a decent salary without working. <br>
 You may think I want to complain about the old, but yet important and valid, idea that people want to take waiting out of wanting. <br>
