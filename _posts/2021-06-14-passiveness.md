@@ -27,7 +27,7 @@ Giant's Boss: Senator, that is something that I will follow up with you, or your
  
 The question is, do they ever? Shouldn't the senators ask the giants to come back in a week with the requested information? Do they? I guess we never know, because the <b> corporate </b> media is run on a profit-generating model, and hence covers newsworthy and trending news only. They are the judges of what is newsworthy too. As far as I can see, they think the hearing is newsworthy, but the follow-up, not so much. <br><br>
     
-Again, from where I stand, it appears that every time, the giants are sent back to their duty of diffusing people's tendency to be active and unified, with more of "Cuz I got a small waist, pretty face with a big bank".<br><br><br>
+This is why every time the show is up, the giants seem to be sent back to their duty of diffusing people's tendency to be active and unified, with more of "Cuz I got a small waist, pretty face with a big bank".<br><br><br>
     
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x814c08?autoplay=1" width="100%" height="100%" allowfullscreen allow="autoplay"> </iframe> </div>
 
