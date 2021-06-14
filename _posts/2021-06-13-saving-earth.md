@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Saving The Earth
-tags: [innovation, saving the earth, environment, Blue Origin]
+tags: [innovation, saving the earth, environment, Blue Moon]
 excerpt_separator: <!--more-->
 ---
 
 <br> <br> 
 
-Jeff Bezos introduces Blue Origin as the Earth's salvation, in face of the seemingly inevitable  environmental crisis. 
+Jeff Bezos introduces Blue Moon as the Earth's salvation, in face of the seemingly inevitable  environmental crisis. 
 
 <!--more-->
 
