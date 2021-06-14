@@ -20,15 +20,15 @@ Loose weight while eating; learn a language in sleep, earn a decent salary witho
 You may think I want to complain about the old, but yet important and valid, idea that people want to take waiting out of wanting. <br>
 But you are wrong.   <br>
 My concern is that passiveness has contaminated more important parts of our lives. <br>
-We now have <b> passive activism </b>, which is when we do our share of activism by clicking a link, 
-liking a post, or leaving a post before closing our laptop and going to bed.<br>
-We hope while we sleep, our post frees Julian Assange, our like saves the Earth, and our shared link illuminates.<br>
+We now have <b> passive activism </b>, which is when we do our share of activism by clicking on a link, 
+liking a video or leaving a post, before closing our laptop and going to bed.<br>
+We hope while we sleep, our post frees Julian Assange, our like saves the Earth, and our shared link illuminates the uneducated.<br>
 But while we sleep, nothing happens. <br>
-Nothing happens except our links and likes and posts enter the magnetic field of social media and become polarized into shot into distant poles, 
-liked by other passive activists. <br>
-And the number of likes never beat the cute cat, the sexy 18-year-old ass, and the dance videos. <br>
-So, basically, our links and likes and posts are shot into the distance while we sleep, just like a dream; <br>
-As if it was never real, and will never be.<br>
+Nothing happens except our links and likes and posts enter the magnetic field of social media, and become polarized and shot into distant poles; 
+where they are liked by other passive activists; sometimes. <br>
+Even then, the number of likes never beat the cute cat, the sexy 18-year-old big bang, and the dance videos. <br>
+So, basically, our links and likes and posts are thrown into a blackhole while we sleep, just like a dream; <br>
+As if they were never real, and will never be.<br>
 
 
 </div>
