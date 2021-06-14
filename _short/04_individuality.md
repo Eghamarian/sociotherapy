@@ -24,7 +24,7 @@ But since we got rid of all public interests, our private interests are showcasi
 Even our loneliness is on public display.<br>
 Even our most intimate moments are appreciated proportional to the number of views or likes they get.<br> 
 
-We yearn for acknowledgment so much that we are uncertain whether we experience things, unless they are seen and liked.<br>
+We yearn for acknowledgment so much, that we are uncertain whether we experience things, unless they are seen and liked.<br>
 
 <!--This conversation is already not, or will soon stop to be, strange:<br><br>
   
