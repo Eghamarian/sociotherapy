@@ -21,7 +21,7 @@ Individuality is one of those.<br>
 We wanted it so bad, we tore all common threads connecting us to each other.<br>
 Now we long for common values more than ever.<br>
 But since we got rid of all public interests, our private interests are showcasing on public stage.<br>
-Even our solitude and loneliness are on public display.<br>
+Even our loneliness is on public display.<br>
 Even our most intimate moments are appreciated proportional to the number of views or likes they get.<br> 
 
 We yearn for acknowledgment so much that we are uncertain whether we experience things, unless they are seen and liked.<br>
