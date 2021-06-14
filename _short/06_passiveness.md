@@ -32,6 +32,7 @@ as if they were never real, and will never be.<br>
 And the politicians are ecstatic about this.<br>
 Once in a while, they summon the giants and put on a show of telling them off.<br>
 But every time, they send them back to their duty of diffusing people's tendency to be active and unified. <br>
+It seems at the end of the day, nothing matters "Cuz I gotta a small waist, pretty face with a big bang".
 
 
 </div>
