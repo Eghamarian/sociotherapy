@@ -20,7 +20,7 @@ The soldier in the tower can and does; at first. <br>
 It feels to him like Game of Thrones, where the dead are climbing up the wall at Winterfell. <br>
 But he somehow knows that was a movie; we all hope. <br>  
 Bored and mind-tripping at Hollywood, he thinks to himself, and thanks his president for the wall. <br>
-Although some manage to cross, the wall does a good job at keeping away the men, the air, the polution, the bacteria, the viruses, and the hatred. <br>
+Although some manage to cross, the wall does a good job of keeping away the men, the air, the polution, the bacteria, the viruses, and the hatred. <br>
 He thanks his president in his mind, kisses his cross necklace, fills with pride, <br> and shouts, <br> and shouts, <br> and...
   
 </div>
