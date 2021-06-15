@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Borders
-img: "assets/img/short/decay.jpeg"
+img: "assets/img/short/borders.jpeg"
 date: June, 14 2021
-tags: [decay, birth, evolution]
+tags: [Refugees, Borders]
 ---
 
 <br><br>
