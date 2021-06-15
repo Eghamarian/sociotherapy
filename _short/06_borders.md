@@ -11,7 +11,7 @@ tags: [Refugees, Borders]
 
 From the watch tower, he watches over the border through his rifle's scope; <br>
 a border that is indiscerinible, if not for the wall. <br>
-He has been instructed to keep watchful eyes, since his army had invaded the neighbours last year. <br>
+He has been instructed to keep watchful eyes, ever since his army invaded the neighbours last year. <br>
 Famine and disease are roaring on the other side, and refugees are expected to show up. <br>
 He has been instructed to shout, to shout, and if not listened to, to shoot.<br>
 But he never finds enough time. Parents come to the other side of the wall, and throw their kids over the wall. <br>
