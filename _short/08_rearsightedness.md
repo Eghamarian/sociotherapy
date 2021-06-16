@@ -32,7 +32,7 @@ What is the point of looking when I can't see? <br>
 At least I can see things when I look in the mirror. <br>  <br>
 
 This is also why I often ask others what they see ahead of me; <br> 
-then I listen and imagine and decide based on how the image feels. <br>
+and I imagine <!--and decide based on how the image feels-->. <br>
 Sometimes they are right, and sometime they are wrong. <br>
 When they are right, I wish I had listened to them; <br>
 and when they are wrong, they give me a good understanding of how they see me. <br>
