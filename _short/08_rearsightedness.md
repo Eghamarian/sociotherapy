@@ -27,7 +27,7 @@ It takes me two years to realize everything. <br>
 This is why I find it less productive to focus on present or future. <br>
 No matter how hard I try, I always realize things in retrospect. <br>
 And this is why instead of a windscreen, I have a huge mirror in front of me, so looking ahead invariably shows me the past. <br>
-What is the point of looking when I can't see? At least I can see things when I look in the mirror. <br>
+What is the point of looking when I can't see, right? At least I can see things when I look in the mirror. <br>
 And before you say it, I have tried. I have also tried harder. <br>
   
 
