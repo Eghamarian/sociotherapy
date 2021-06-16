@@ -21,7 +21,7 @@ It devours all my resources, and leaves me numb. <br><br>
 How did I sabotage my chance, when I could feel the breath of perfection on my neck? <br>
 She showed interest, she was pretty and intelligent. <br>
 I was pedantic, uncharacteristically judgmental, and absent. <br>
-I partly blame anti-depressant medications. They made me cold and indifferent. <br>
+I partly blame anti-depressant medications; they made me cold and indifferent. <br>
 I have now stopped them, but it took me two years to realize all this.<br>
 It takes me two years to realize everything. <br>
 This is why I find it less productive to focus on future or present. <br>
