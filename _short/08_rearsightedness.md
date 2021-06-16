@@ -35,7 +35,8 @@ This is also why I often ask others what they see ahead of me; <br> and I imagin
 Sometimes they are right, and sometime they are wrong. <br>
 When they are right, I wish I had listened to them; <br>
 and when they are wrong, they give me a good understanding of how they see me. <br>
-Sometimes they are wrong about what's ahead of them. But when that happens, they don't stop. <br>
+Sometimes they are wrong about their own path too. <br>
+But when that happens, they don't stop. <br>
 They don't stop and think about what could be; they keep moving and think about what may be. <br>
 The difference between us, is that they have their mirror behind them. <br>
 So, even when they try to look back and see what's passed, they mostly see what's to come. <br> 
