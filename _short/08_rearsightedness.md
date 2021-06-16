@@ -36,8 +36,8 @@ Sometimes they are wrong about what's ahead of them. But when that happens, they
 They don't stop and think about what could be; they keep moving and think about what may be. <br>
 The difference between us, is that they have their mirror behind them. <br>
 So, even when they try to look back and see what's passed, they mostly see what's to come. <br> 
-I often wish I could put my mirror behind, or to drive backwards, so my rearsightedness would turn into foresight. <br>
-But some people are just born without it. <br>
+I often wish I could put my mirror behind, or to drive backwards, so my rearsightedness would reverse. <br>
+But some people are just born without foresight. <br>
 And before you say it, I have tried. I have also tried harder. <br>
   
 
