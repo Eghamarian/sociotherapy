@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demons
+title: Painter
 img: "assets/img/short/painter.jpeg"
 date: June, 15 2021
 tags: [Painter]
