@@ -43,7 +43,7 @@ They don't stop and think about what could be; they keep moving and think about 
 We all make mistakes, but the difference between us, is that they have their mirror behind them. <br>
 So, even when they try to look back and see what's passed, they mostly see what's to come. <br> 
 Their connection with the past is often a bunch of lessons they carry forward with them. <br>
-For me the past is the only world I understand, so I've just settled there. <br>
+For me the past is the only world I understand so I've just settled there. <br>
 I do wish though; <br>
 I wish I could put my mirror behind, or drive backwards, so my rearsightedness would reverse. <br>
 But some people are just born without foresight. <br>
