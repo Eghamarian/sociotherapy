@@ -15,7 +15,7 @@ It's at the center of my stomach, right below my chest. <br>
 It's not painful either, it is just hollow. <br>
 It feels like my core is evaporating like effervescent vitamins. <br>
 But unlike vitamin tablets, my evaporating core doesn't get lighter and lighter until it disappears. <br>
-It gets heavier and heavier as it pull my entire existance towards it. <br>
+It gets heavier and heavier as it pulls my entire existance towards it. <br>
 It devours all my resources, and makes me numb. <br><br>
   
 How did I sabotage my chance, when I could feel the breath of perfection on my neck? <br>
