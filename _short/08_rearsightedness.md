@@ -16,10 +16,11 @@ It's not painful either, it is just hollow. <br>
 It feels like my core is evaporating like effervescent vitamins. <br>
 But unlike vitamin tablets, my evaporating core doesn't get lighter and lighter until it disappears. <br>
 It gets heavier and heavier as it pull my entire existance towards it. <br>
-It devours all my resources, and makes me numb. <br>
+It devours all my resources, and makes me numb. <br><br>
+  
 How did I sabotage my chance, when I could feel the breath of perfection on my neck? <br>
 She showed interest, she was pretty and intelligent. <br>
-I was pedantic, absent, and uncharacteristically judgmental. <br>
+I was pedantic, uncharacteristically judgmental, and absent. <br>
 I partly blame Anti-depressant medications. They made me numb and indifferent. <br>
 It took me two years to realize all this.<br>
 It takes me two years to realize everything. <br>
