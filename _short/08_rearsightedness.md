@@ -25,7 +25,7 @@ I partly blame anti-depressant medications; they made me cold and indifferent. <
 I have now stopped them, but it took me two years to realize it.<br>
 It takes me two years to realize everything, not just matters of the heart. <br>
 This is why I find it less productive to focus on future or present. <br>
-No matter how hard I try, I always see things in retrospect. <br>
+No matter how hard I try, I always see things only in retrospect. <br>
 And this is why instead of a windscreen, I have put a huge mirror in front of me. <br> 
 So looking ahead, invariably shows me the past. <br>
 What is the point of looking when I can't see? <br>
