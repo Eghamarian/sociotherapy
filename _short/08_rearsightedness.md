@@ -22,7 +22,7 @@ How did I sabotage my chance, when I could feel the breath of perfection on my n
 She showed interest, she was pretty and intelligent. <br>
 I was pedantic, uncharacteristically judgmental, and absent. <br>
 I partly blame Anti-depressant medications. They made me numb and indifferent. <br>
-It took me two years to realize all this.<br>
+I have now stopped them, but it took me two years to realize all this.<br>
 It takes me two years to realize everything. <br>
 This is why I find it less productive to focus on present or future. <br>
 Cuz no matter how hard I try, I always realize things in retrospect. <br>
