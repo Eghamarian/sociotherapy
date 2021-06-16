@@ -27,9 +27,9 @@ It takes me two years to realize everything, not just matters of the heart. <br>
 This is why I find it less productive to focus on future or present. <br>
 No matter how hard I try, I always see things in retrospect. <br>
 And this is why instead of a windscreen, I have a huge mirror in front of me. <br> 
-So looking ahead, invariably shows me the past. <br><br>
-  
-What is the point of looking when I can't see, right? At least I can see things when I look in the mirror. <br>
+So looking ahead, invariably shows me the past. <br>
+What is the point of looking when I can't see, right? At least I can see things when I look in the mirror. <br>  <br>
+
 This is also why I often ask others what they see ahead of me; <br> and I imagine. <br>
 Sometimes they are right, and sometime they are wrong. <br>
 When they are right, I wish I had listened to them; <br>
