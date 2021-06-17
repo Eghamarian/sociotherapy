@@ -37,7 +37,7 @@ Sometimes they are right, but most often they are wrong. <br>
 I guess no one can see for you; not even your family. <br>
 <!--When they are right, I wish I had listened to them; <br>
 and when they are wrong, they give me a good understanding of how they see me. <br>-->
-Even those who are right, are wrong about their own paths sometimes. <br>
+Even those who are right about mine, are wrong about their own paths sometimes. <br>
 But when that happens, they don't stop. <br>
 They don't stop and think about what could be; they keep moving and think about what may be. <br>
 We all make mistakes, but the difference between us, them and I, is that they have their mirror behind them. <br>
