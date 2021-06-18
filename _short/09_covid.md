@@ -13,7 +13,7 @@ Were we always this vile, or was I blind?<br>
 If we always were, why the endless accolades for humanness of humans?<br>
 
 Are we calling a bad dog, a good dog, so it does the right thing under pressure?<br>
-If so, we are certainly failing, because we are the lowliest creatures walking the earth.<br>
+If so, we are abysmally failing, because we are the lowliest creatures walking the earth.<br>
 
 Forget about the media downplaying scandals, corruption, cheating, raping and theft of important people. <br>
 Forget about the media magnifying a man who rescued a kuala from the middle of the road. <br>
