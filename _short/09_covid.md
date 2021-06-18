@@ -28,7 +28,7 @@ But there is only one rule we truly follow: "do it, cuz if you don't, someone el
 We all have that stored in our hearts and minds; thanks to neo-liberalism. <br>
 We are alone, and inhuman.  <br><br>
   
-What makes us look remotely like real humans, is the law. <br>
+With humanity overshadowed by neo-liberalism, what makes us look remotely like real humans, is the law. <br>
 But we always bend the law, especially if we are from countries with flexible law.<br>
 Notorious among these are Iranians. <br> 
 When you talk to us, we picture Iran as the oldest civilization on face of the Earth. <br>
