@@ -10,7 +10,7 @@ tags: [Past, Rearsightedness]
 <div align="center">
 
 Were we always this vile, or was I blind?<br>
-If it was me, why the endless accolades for humanness of humans?<br>
+If we always were, why the endless accolades for humanness of humans?<br>
 
 Are we calling a bad dog, a good dog, so it does the right thing under pressure?<br>
 If so, we are certainly failing, because we are the lowliest creatures walking the earth.<br>
