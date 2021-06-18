@@ -30,7 +30,7 @@ It says we are competitive by nature; so we are alone, and inhuman by design.  <
   
 With humanity overshadowed by neo-liberalism, what makes us look remotely like real humans, is the law. <br>
 But we always bend the law, especially if we are powerful, or from countries with flexible law.<br>
-Notorious among these are Iranians. <br> 
+Notorious among the latter are Iranians. <br> 
 When you talk to us, we picture Iran as the oldest civilization on face of the Earth. <br>
 We introduce ourselves as warm, cultured and human. <br>
 But we are invariably ahead of everyone in cheating to get what we want. <br>
