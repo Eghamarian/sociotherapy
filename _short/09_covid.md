@@ -27,7 +27,8 @@ We are alone and inhuman.  <br><br>
   
 What makes us look remotely like real humans, is the law. <br>
 But we always bend the law, especially if we are from countries with flexible law.<br>
-Notorious among these are Iranians. When you talk to us, we picture Iran as the oldest civilization on face of the Earth. <br>
+Notorious among these are Iranians. <br> 
+When you talk to us, we picture Iran as the oldest civilization on face of the Earth. <br>
 We introduce ourselves as warm, cultured and human. <br>
 But we are invariably ahead of everyone in cheating to get what we want. <br>
 Make no mistake; you are all the same, if the law looses color. <br>
