@@ -23,8 +23,9 @@ Most of us do it, even if it's not our turn. Most of us do it, even if it's not 
 We pretend we like each other, but we don't. We don't like each other and we lie about it.<br>
 We think not saying "nigger", solves racism against black people; <br>
 and using "she", instead of "he", to refer to countries, solves sexism. <br>
+In our solitudes, we don't give a damn about racism or sexism.<br>  
   
-But there is only one rule we truly follow: "do it, cuz if you don't, someone else will". <br>
+And in practive, there is only one rule we truly follow: "do it, cuz if you don't, someone else will". <br>
 We all have that stored in our hearts and minds; thanks to neo-liberalism. <br>
 It claims we are competitive by nature; so we are alone, and inhuman by design.  <br><br>
   
