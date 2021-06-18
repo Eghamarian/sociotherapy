@@ -22,7 +22,7 @@ Most of us do it, even if it's not our turn. Most of us do it, even if it's not 
 
 We pretend we like each other, but we don't. We don't like each other and we lie about it.<br>
 We think not saying "nigger", solves racism against black people; <br>
-and using "her" instead of "his" to refer to countries, solves sexism. <br>
+and using "she", instead of "he", to refer to countries, solves sexism. <br>
   
 But there is only one rule we truly follow: "do it, cuz if you don't, someone else will". <br>
 We all have that stored in our hearts and minds; thanks to neo-liberalism. <br>
