@@ -9,21 +9,32 @@ tags: [Past, Rearsightedness]
 <br><br>
 <div align="center">
 
-Were we always this vile, or was I blind?
-If it was me, why the endless accolades for humanness of humans?
+Were we always this vile, or was I blind?<br>
+If it was me, why the endless accolades for humanness of humans?<br>
 
-Are we calling a bad dog, a good dog, so it does the right thing under pressure?
-If so, we are certainly failing, because we are the lowliest creatures walking the earth.
+Are we calling a bad dog, a good dog, so it does the right thing under pressure?<br>
+If so, we are certainly failing, because we are the lowliest creatures walking the earth.<br>
 
-Forget about the media downplaying the scandals, corruption, cheating, raping and theft of important people, and
-magnifying a man who rescuing a kuala from the middle of the road.
-Look around you. most of us take what we can. Most of us do it if no one is looking. 
-Most of us do it, even if it's not our turn; Most of us do it, even if it's not right.
+Forget about the media downplaying the scandals, corruption, cheating, raping and theft of important people. <br>
+Forget about media magnifying a man who rescued a kuala from the middle of the road. <br>
+Look around you. Most of us take what we can. Most of us do it, if no one is looking. 
+Most of us do it, even if it's not our turn; most of us do it, even if it's not right.
 
 We pretend we like each other. But we don't; We don't like each other and we lie about it.
 There is only one rule we follow; "take what you can cuz if you don't, someone else will". 
 We all have that stored in our hearts and minds; thanks to neo-liberalism. 
-We are alone and inhuman.
+We are alone and inhuman.  
+  
+What makes us look remotely like real humans, is the law. 
+But we always bend the law, especially if we are from countries with flexible law.
+Notorious among these are Iranians. When you talk to us, we picture Iran as the oldest civilization on face of the Earth. <br>
+We introduce ourselves as warm, cultured and human. <br>
+But we are invariably ahead of everyone in cheating to get what we want. <br>
+Make no mistake; you are all the same, if the law looses color. <br>
+In fact this is why important people in developed countries do it; <br>
+they do it becuase they think they can get away with it using their influence, and they do.<br>
+  
+
 
 </div>
 <br><br>
