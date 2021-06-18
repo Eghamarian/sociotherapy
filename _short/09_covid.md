@@ -27,7 +27,7 @@ But in our solitudes, we don't care about racism or sexism.<br>
   
 And in practice, there is only one rule we truly follow: "do it, cuz if you don't, someone else will". <br>
 We all have that stored in our hearts and minds; thanks to neo-liberalism. <br>
-It claims we are competitive by nature; so we are alone, and inhuman by design.  <br><br>
+The claim is that we are competitive by nature; so we are alone, and inhuman by design.  <br><br>
   
 With humanity overshadowed by neo-liberalism, what makes us look remotely like real humans, is the law. <br>
 But we always bend the law, especially if we are powerful, or from countries with flexible law.<br>
