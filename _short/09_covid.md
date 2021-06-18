@@ -29,7 +29,7 @@ We all have that stored in our hearts and minds; thanks to neo-liberalism. <br>
 It says we are competitive by nature; so we are alone, and inhuman by design.  <br><br>
   
 With humanity overshadowed by neo-liberalism, what makes us look remotely like real humans, is the law. <br>
-But we always bend the law, especially if we are from countries with flexible law.<br>
+But we always bend the law, especially if we are powerful, or from countries with flexible law.<br>
 Notorious among these are Iranians. <br> 
 When you talk to us, we picture Iran as the oldest civilization on face of the Earth. <br>
 We introduce ourselves as warm, cultured and human. <br>
