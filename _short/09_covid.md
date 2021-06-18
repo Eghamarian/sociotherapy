@@ -21,8 +21,8 @@ Look around you. Most of us take what we can. Most of us cheat, when no one is l
 Most of us do it, even if it's not our turn. Most of us do it, even if it's not right.<br><br>
 
 We pretend we like each other, but we don't. We don't like each other and we lie about it.<br>
-We think not saying "nigger", solves racism against black people; <br>
-and using "she", instead of "he", to refer to countries, solves sexism. <br>
+We don't publicly say "nigger" to show we condemn racism against black people; <br>
+We use "she", instead of "he" to refer to countries, to pretend we give a toss about women. <br>
 But in our solitudes, we don't give a damn about racism or sexism.<br>  
   
 And in practice, there is only one rule we truly follow: "do it, cuz if you don't, someone else will". <br>
