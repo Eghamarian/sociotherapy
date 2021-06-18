@@ -15,7 +15,7 @@ If it was me, why the endless accolades for humanness of humans?<br>
 Are we calling a bad dog, a good dog, so it does the right thing under pressure?<br>
 If so, we are certainly failing, because we are the lowliest creatures walking the earth.<br>
 
-Forget about the media downplaying the scandals, corruption, cheating, raping and theft of important people. <br>
+Forget about the media downplaying scandals, corruption, cheating, raping and theft of important people. <br>
 Forget about media magnifying a man who rescued a kuala from the middle of the road. <br>
 Look around you. Most of us take what we can. Most of us do it, when no one is looking. <br>
 Most of us do it, even if it's not our turn; most of us do it, even if it's not right.<br><br>
