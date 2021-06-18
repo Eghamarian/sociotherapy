@@ -36,7 +36,7 @@ We introduce ourselves as warm, cultured and human. <br>
 But we are invariably ahead of everyone in cheating to get what we want. <br>
 Make no mistake; you are all the same, if the law looses color. <br>
 In fact this is why important people in developed countries do it; <br>
-they do it becuase they think they can get away with it using their influence, and they do.<br>
+they think themselves above the law, and they are. <br>  
   
 
 
