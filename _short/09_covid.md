@@ -21,8 +21,8 @@ Look around you. Most of us take what we can. Most of us do it, when no one is l
 Most of us do it, even if it's not our turn; most of us do it, even if it's not right.<br><br>
 
 We pretend we like each other, but we don't. We don't like each other and we lie about it.<br>
-We think not saying "nigger" solves racism against black people; <br>
-and using her instead of his to refer to countries solves sexism. <br>
+We think not saying 'nigger' solves racism against black people; <br>
+and using 'her' instead of 'his' to refer to countries solves sexism. <br>
   
 But there is only one rule we truly follow: "take what you can cuz if you don't, someone else will". <br>
 We all have that stored in our hearts and minds; thanks to neo-liberalism. <br>
