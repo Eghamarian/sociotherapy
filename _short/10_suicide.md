@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suicide
-img: "assets/img/short/covid.jpeg"
+img: "assets/img/short/suicide.jpeg"
 date: June, 18 2021
 tags: [Past, Rearsightedness]
 ---
