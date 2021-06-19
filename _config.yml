@@ -38,6 +38,8 @@ paginate_path: "/blog/page:num"
 collections:
   short:
     output: true
+  long:
+    output: true
   portfolio:
     output: true
     permalink: /:collection/:name
