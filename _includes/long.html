@@ -1,0 +1,15 @@
+<!-- Portfolio Grid Section -->
+<div class="long-grid">
+    {% for item in site.long %}
+    <div class="long-cell">
+        <a class="long-link" data-keyboard="true" href="{{ item.url | relative_url }}">
+            <div class="caption" title="{{ item.title }}">
+                <div class="caption-content">
+                    <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="{{ item.img | relative_url }}">
+        </a>
+    </div>
+    {% endfor %}
+</div>
