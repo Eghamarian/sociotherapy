@@ -18,7 +18,7 @@ Should've stopped nagging, should've done it a long time ago.<br>
 It is just another goal that I failed to follow.<br>
 It is just another hope that I shared till hollowed.<br>
 I should stop.<br>
-Wishing or sharing; I should stop.
+Wishing, sharing; I should stop.
 <br> 
 
 
