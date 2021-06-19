@@ -1,7 +1,7 @@
 --- 
 layout: page
 title : Short Stories
-permalink: /short/ 
+permalink: /long/ 
 feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Archive]
 ---
