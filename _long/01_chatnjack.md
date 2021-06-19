@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Cummon Chat
-tags: [Activisim, Passiveness, Passive Activism]
-excerpt_separator: <!--more-->
+img: "assets/img/short/suicide.jpeg"
+date: June, 19 2021
+tags: [Past, Rearsightedness]
 ---
-
 
 
 <br><br>
