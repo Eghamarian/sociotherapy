@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Social Mitochondria
-img: "assets/img/short/suicide.jpeg"
-date: June, 18 2021
+img: "assets/img/short/mitochondria.jpeg"
+date: June, 21 2021
 tags: [Social Mitochondria]
 ---
   
