@@ -9,13 +9,13 @@ tags: [Social Mitochondria]
 <br><br>
 <div align="center">
 
-Get mad, get brutally lonely and remember; <br>
+Get mad if you want; or get brutally lonely, but remember; <br>
 remember we have no way of finding out. <br>
 So believe in lies or surrender. <br>
-Whatever you do, know that nature only and indifferently remembers persistence. <br>
+Whatever you do, know that nature only, and indifferently remembers persistence. <br>
 She can forget a murderer, or kill a toddler. <br>
 Cruel it seems. <br>
-But this way, mistakes will be washed away, until they recur. <br>
+But this way, mistakes will be washed away, unless they recur. <br>
 And mutations bear out of pain, desire or despair. <br>
 So keep at it and it will be a flaw, or keep falling until you fly. 
 <br>
