@@ -13,7 +13,7 @@ tags: [Past, Rearsightedness]
 "I did it", I continued with the same loudness. <br>
 "Ok, go lie in the tub, and keep your wrist under running water", she shouted back from our bedroom. <br>
 "Just make sure you are not blocking the drain", she added.  <br>
-"Warm water, or cold?" I enquired?<br>
+"Warm water, or cold?" I enquired.<br>
 "Warm", she replied.<br>
 "I will come check on you in an hour or so", she assured me.<br>
 "I love you", I said.<br>
