@@ -11,7 +11,7 @@ tags: [Past, Rearsightedness]
 
 "Hon", I shouted to be louder than the laundry machine. <br>
 "I did it", I continued with the same loudness. <br>
-"Ok, go lie in the tub and keep your wrist under running water", she shouted back from our bedroom. <br>
+"Ok, go lie in the tub, and keep your wrist under running water", she shouted back from our bedroom. <br>
 "Just make sure you are not blocking the drain", she added.  <br>
 "Warm water, or cold?" I enquired?<br>
 "Warm", she replied.<br>
