@@ -18,7 +18,7 @@ Should've ended moaning, should've done it long ago.<br>
 It is now another goal, that I failed to follow.<br>
 It is just another hope, that I shared till hollowed.<br>
 I should stop.<br>
-Wishing, sharing; I should stop.
+Wishing or sharing; I should stop.
 <br> 
 
 
