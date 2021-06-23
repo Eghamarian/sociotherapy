@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suicide
+title: Sick
 img: "assets/img/long/sick.jpeg"
 date: June, 23 2021
 tags: [Past, Rearsightedness]
