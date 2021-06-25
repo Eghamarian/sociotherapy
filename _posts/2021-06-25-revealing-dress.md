@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Passive Activism
-tags: [Activisim, Passiveness, Passive Activism]
+title: Why Women Are Wrong
+tags: [Women, Feminism, Sexification, Objectification]
 excerpt_separator: <!--more-->
 ---
 
