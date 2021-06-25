@@ -20,7 +20,7 @@ Bring confidence to a boil, add ignorance and confidence to it,<br>
 and stir until they dissolve into a competitive spirit,<br>
 Strain the mix and empty the content in a pyrex,<br>
 Cut arrogance in shape of leadership and lay it around the container,<br>
-This is optional, but to make the dish an easy choice, <br>  
+This is optional, but to make the dish an easy choice, and to mask the remnant smell of raw conscience,<br>  
 add a hint of anti-commusim, before leaving the dish in politicians' sight for a short time.<br>
 <br>
 Voilà, market economy is ready to serve.<br>
