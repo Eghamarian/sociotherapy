@@ -16,7 +16,7 @@ a generous amount of obsession, <br>
 a gallon of indifference,<br>
 and a ton of avarice. <br><br>
   
-Stir fry indifference until it changes color to equal opportunity.<br>
+Stir fry indifference until it changes color to equal opportunity,<br>
 Bring confidence to a boil, and add ignorance and obsession to it,<br>
 Stir until they dissolve, and the mix thickens into competitive spirit,<br>
 Lay a layer of greed in a pyrex and leave it in oven until it puffs into ambition,<br>
