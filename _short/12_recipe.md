@@ -17,7 +17,7 @@ and a gallon of indifference.<br><br>
   
 Stir fry indifference until it changes color from indifferent to impartial.<br>
 Bring confidence to a boil and add ignorance and confidence to it,<br>
-Stir until they dissolve into a competitive sporit,<br>
+Stir until they dissolve into a competitive spirit,<br>
 Strain the mix and empty the content in a pyrex,<br>
 Cut arrogance in the shape of leadership and lay them around the container,<br>
 Leave the whole thing before politicians' eyes for some time.<br>
