@@ -15,15 +15,15 @@ two dozen cups of confidence,<br>
 a generous amount of obsession, <br>
 and a gallon of indifference,<br><br>
   
-Stir fry indifference until it changes color from indifferent to impartial.<br>
-Bring confidence to a boil,<br>
-Stir and add ignorance and obsession to the mix until it dissolves into competitive spirit,<br>
-Strain the mix and empty the content in a pyrex,<br>
-Take conscience out of arrogance, cut it in shape of leadership and lay it around the container,<br>
+Stir fry indifference until it changes color to equal opportunity.<br>
+Bring confidence to a boil, and add ignorance and obsession to it,<br>
+Stir until they dissolve, and the mix thickens into competitive spirit,<br>
+Empty the content in a pyrex, add equal opportunity on top, and leave it to cool down,<br>
+Then take conscience out of arrogance, cut it in shape of leadership and lay it around the container,<br>
 This is optional, but to make the dish an easy choice, and to mask the remnant smell of raw conscience,<br>  
 add a hint of anti-commusim before leaving the dish in politicians' sight for a short time.<br>
 <br>
-  Voilà, <em>Market Economy</em> is ready to serve.<br>
+Voilà, <em>Market Economy</em> is ready to serve.<br>
   
 
 
