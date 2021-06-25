@@ -23,7 +23,7 @@ Cut arrogance in shape of leadership and lay it around the container,<br>
 This is optional, but to make the dish an easy choice, and to mask the remnant smell of raw conscience,<br>  
 add a hint of anti-commusim, before leaving the dish in politicians' sight for a short time.<br>
 <br>
-Voilà, market economy is ready to serve.<br>
+  Voilà, <em>Market Economy</em> is ready to serve.<br>
   
 
 
