@@ -18,7 +18,7 @@ Cruel it seems. <br>
 But this way, mistakes will be washed away, unless they recur. <br>
 And mutations bear out of pain, desire or despair. <br>
 So keep at it and it will be a flaw, or keep falling until you fly. <br>
-It depends on what you repeat.
+What to repeat, is yours to figure.
 <br>
 
 
