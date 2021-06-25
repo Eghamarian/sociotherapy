@@ -20,7 +20,8 @@ Bring confidence to a boil, add ignorance and confidence to it,<br>
 and stir until they dissolve into a competitive spirit,<br>
 Strain the mix and empty the content in a pyrex,<br>
 Cut arrogance in the shape of leadership and lay them around the container,<br>
-Leave the whole thing before politicians' eyes for some time.<br>
+Squeeze a few drops of anti-commusim on top and   
+leave the whole thing before politicians' eyes for a short time.<br>
 <br>
 Voilà, market economy is ready to serve.<br>
   
