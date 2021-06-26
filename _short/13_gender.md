@@ -21,7 +21,7 @@ tags: [Social Mitochondria]
 - Who?<br>
 - A group of celebrities I've been hanging out with.<br> 
 - What does that have anything to do with our car?<br>
-- They are extremely environmentally conscious and I really want to fit in.<br> 
+- They are extremely environmentally conscious, and I really want to fit in.<br> 
 - Who are these celebrities?<br>
 - I can't tell you. You can't keep a secret.<br>
 - They are celebrities; you are probably all over their instagram.<br> 
