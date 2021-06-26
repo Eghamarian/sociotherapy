@@ -26,7 +26,7 @@ tags: [Social Mitochondria]
 - I can't tell you; you can't keep a secret.<br>
 - They are celebrities; you are probably all over the internet as we speak.<br> 
 - That's different.<br>
-- You are not making sense at all.<br> 
+- You are making no sense at all.<br> 
 - Please????<br>
 - Ugh. Alright; but just because you are the man I love, doesn't mean you can get away with it every time.<br> 
 - Promise. Promise. Just this once. <br>
