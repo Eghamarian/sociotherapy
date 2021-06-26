@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gender Roles
+title: Gender
 img: "assets/img/short/gender.jpeg"
 date: June, 26 2021
 tags: [Social Mitochondria]
