@@ -24,7 +24,7 @@ tags: [Social Mitochondria]
 - They are extremely environmentally conscious, and I really want to fit in.<br> 
 - Who are these celebrities?<br>
 - I can't tell you; you can't keep a secret.<br>
-- They are celebrities; you are probably all over their instagrams as we speak.<br> 
+- They are celebrities; you are probably all over the internet as we speak.<br> 
 - That's different.<br>
 - You are not making sense at all.<br> 
 - Please????<br>
