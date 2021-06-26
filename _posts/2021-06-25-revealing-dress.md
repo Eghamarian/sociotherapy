@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Women Are Wrong
+title: Why Some Women Are Wrong
 tags: [Women, Feminism, Sexualization, Objectification]
 excerpt_separator: <!--more-->
 ---
