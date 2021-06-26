@@ -9,30 +9,30 @@ tags: [Social Mitochondria]
 <br><br>
 <div align="center">
 
-- Honey!
-- Yeah?
-- We need to change our car.
-- And get what instead?
-- A Tesla?
-- Why?
-- It has less environmental impact.
-- We have a private jet!
-- That's ok. Half of them have one too.
-- Who?
-- A group of celebrities I've been hanging out with. 
-- What does that have anything to do with our car?
-- They are extremely environmentally conscious and I really want to fit in. 
-- Who are these celebrities?
-- I can't tell you. You can't keep a secret.
-- They are celebrities; you are probably all over their instagram. 
-- That's different.
-- You are not making sense at all. 
-- Please????
-- Ugh. Alright; but just because you are the man I love, doesn't mean you can get away with it every time. 
-- Promise. Promise. Just this once. 
-- Ok. 
-- Love you.
-- Love you too. 
+- Honey!<br>
+- Yeah?<br>
+- We need to change our car.<br>
+- And get what instead?<br>
+- A Tesla?<br>
+- Why?<br>
+- It has less environmental impact.<br>
+- We have a private jet!<br>
+- That's ok. Half of them have one too.<br>
+- Who?<br>
+- A group of celebrities I've been hanging out with.<br> 
+- What does that have anything to do with our car?<br>
+- They are extremely environmentally conscious and I really want to fit in.<br> 
+- Who are these celebrities?<br>
+- I can't tell you. You can't keep a secret.<br>
+- They are celebrities; you are probably all over their instagram.<br> 
+- That's different.<br>
+- You are not making sense at all.<br> 
+- Please????<br>
+- Ugh. Alright; but just because you are the man I love, doesn't mean you can get away with it every time.<br> 
+- Promise. Promise. Just this once. <br>
+- Ok. <br>
+- Love you.<br>
+- Love you too. <br>
 
 
 
