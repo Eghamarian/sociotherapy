@@ -46,7 +46,7 @@ There are arms to embrace.<br><br>
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
-Right where we stand, there is a truth to be told,<br>
+Right where we stand, there is truth to be told,<br>
 There are chests to unchain,<br>
 There are gates to unclose.<br><br>
 
