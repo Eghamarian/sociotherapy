@@ -38,10 +38,10 @@ Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
 Right where we stand, there is love to go round, <br>
+There are knees to unbend,<br>
 There are wounds to unbound,<br>
 There are hearts to unbreak,<br>
-There are knees to unbend,<br>
-There are arms to embrace,<br><br>
+There are arms to embrace.<br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
