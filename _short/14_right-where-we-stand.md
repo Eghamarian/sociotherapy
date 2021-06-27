@@ -9,7 +9,7 @@ tags: [Right Where We Stand]
 <br><br>
 <div align="left">
 
-Right where we stand, there is patience to be had, <br>
+Right where we stand, there's patience to be had, <br>
 There is a vision to revive, <br>
 There is a will to survive. <br><br>
 
@@ -23,21 +23,21 @@ There is anger to unleash.<br><br>
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
-Right where we stand, there is pain to endure,<br>
+Right where we stand, there's pain to endure,<br>
 There are hopes to unloose,<br>
 There are  ways to unchoose.<br><br>
 
 Right, as we try, <br>
-Wrong, as we give in.<br>
-<br>
-Right where we stand, there is the Earth underneath,<br>
+Wrong, as we give in.<br><br>
+
+Right where we stand, there's the Earth underneath,<br>
 There are woods to uncut,<br>
-There is a globe to unheat.<br><br>
+There's a globe to unheat.<br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
-Right where we stand, there is love to go round, <br>
+Right where we stand, there's love to go round, <br>
 There are knees to unbend,<br>
 There are wounds to unbound,<br>
 There are hearts to unbreak,<br>
@@ -46,7 +46,7 @@ There are arms to embrace.<br><br>
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
-Right where we stand, there is truth to be told,<br>
+Right where we stand, there's truth to be told,<br>
 There are chests to unchain,<br>
 There are gates to unclose.<br><br>
 
