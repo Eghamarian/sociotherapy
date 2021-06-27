@@ -30,7 +30,7 @@ There are  ways to unchoose.<br><br>
 Right, as we try, <br>
 Wrong, as we give in.<br>
 <br>
-Right where we stand, there is the Earth in last breaths,<br>
+Right where we stand, there is the Earth underneath,<br>
 There are woods to uncut,<br>
 There is a globe to unheat.<br><br>
 
