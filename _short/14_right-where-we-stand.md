@@ -2,7 +2,7 @@
 layout: post
 title: Right Where We Stand
 img: "assets/img/short/right.jpeg"
-date: June, 26 2021
+date: June, 27 2021
 tags: [Right Where We Stand]
 ---
   
