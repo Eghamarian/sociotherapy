@@ -7,7 +7,7 @@ tags: [Social Mitochondria]
 ---
   
 <br><br>
-<div align="center">
+<div align="left">
 
 - Honey!<br>
 - Yeah?<br>
