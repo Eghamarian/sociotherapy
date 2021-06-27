@@ -49,7 +49,42 @@ All that said, I am not completely out of luck tonight. After spanking her a few
   
 Lucy then gets up and goes in the shower. I lie on my back and think whether this is an appropriate moment to tell her how I feel. I have been thinking about this whole thing for a long time, yet I have not been able to find an alternative to replace this with. I have thought of swinging, I have thought of a break, I have thought of a long trip together; but I do not think any of them would replace the relative satisfaction she has now, or bring normal back to our lives. It can't go on like this though. The thing about sex is that it is not like other activities. It is not easy but certainly possible and normal to do something against your will because it is important to your partner. Sex doesn't work that way. If you do not like doing it, you cannot push yourself to do it. At least not for long. That's how I am anyway. So, I can only carry on doing this for so long. The talk is inevitable, unless I make significant improvement in my treatment and miraculously regain my enthusiam back, which is unlikely based on my progress. <br><br>
   
+When Lucy comes out of shower, I tell her we need to talk. She doesn't like the sound of it but remains silent expecting me to start.
   
+Me: "I don't enjoy doing this anymore."
+Lucy: "What do you mean?"
+Me: "It was very exciting in the beginning, but I no longer find it amusing."
+Lucy: "Well, I wonder why I find that familiar."
+Me: "Don't be mean."
+Lucy: "It is true though."
+Me: "It is, but I didn't do any of it intentionally."
+Lucy: "I know, but that doesn't change the outcome, does it?"
+Me: "No I gues it doesn't."
+Lucy: "So, what do you recommend we do?"
+Me: "I don't know. I have been thinking of swinging, taking a break, and travelling, but I am not positive about swinging for the obvious reasons. I am not fond of taking a break either, because I think that would just mean postponing the problem to a later date. What do you think of travelling? That would add some excitement in our lives. We could travel to a few countries, and stay in one for a while if we like."
+Lucy: "Well, that is a good idea, but I don't see how that solves our sexual problems. Besides, you are not the only one who has been thinking. I have been doing some thinking of my own, and have been meaning to talk to you."
+Me: "Ok"
+Lucy: "I think it is best if we get a divorce."
+Me: "What?"
+Lucy: "Well, with no practical solution before us, I think that is the most sensible thing to do. Besides, I do not want to stop streaming. I have grown quite fond of it."
+Me: "It is the attention, isn't it?"
+Lucy: "It is also the attention, I am not gonna lie. Never in my life have I been appreciated this much, especially at the time when I was so deprived of it. But it is also the sex. I feel like I can have anyone I want, and I have been testing the waters about that. There are a few people I have been seeing online outside our scheduled streaming and I think I quite like them. I would like to explore my relationship with them a bit further and see where it goes."
+Me: "Are you saying you have been cheating on me?"
+Lucy: "Don't blow it out of proportion. We just ended a video stream of us to having sex in presence of others. Besides, I have not been seeing anyone in person yet. But I would like to."
+Me: "I see. But you don't know anything about them."
+Lucy: "Which is why I would like the opportunity to do that. But again, I am not looking for a committed relationship. I would like to have fun for some time, which does not require deep familiarity. I just have to make sure they are not psychos."
+Me: "This is horrible. Every cell in my body is pushing me to object, but my ass is guilty, so I can't even be angry."
+Lucy: "Why angry?"
+Me: "You just told me you have been cheating on me."
+Lucy: "I gues that depends on how you define cheating. I don't consider that cheating, because I have not seen anyone yet, and I am telling you before seeing them."
+Me: "Well, I am glad you have been thinking about what makes you happy. But I am sure we can continue thinking and come up with an alternative solution."
+Lucy: "Well, I think I am odne thinking."
+Me: "What do you mean?"
+Lucy: "Well, I mean I have made my mind. I think it is best for both of us to get a divorce and get on with our lives. I do love you, but not like that anymore."
+
+  
+  
+
   
 
   
