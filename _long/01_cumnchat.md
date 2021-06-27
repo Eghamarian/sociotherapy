@@ -49,7 +49,7 @@ All that said, I am not completely out of luck tonight. After spanking her a few
   
 Lucy then gets up and goes in the shower. I lie on my back and think whether this is an appropriate moment to tell her how I feel. I have been thinking about this whole thing for a long time, yet I have not been able to find an alternative to replace this with. I have thought of swinging, I have thought of a break, I have thought of a long trip together; but I do not think any of them would replace the relative satisfaction she has now, or bring normal back to our lives. It can't go on like this though. The thing about sex is that it is not like other activities. It is not easy but certainly possible and normal to do something against your will because it is important to your partner. Sex doesn't work that way. If you do not like doing it, you cannot push yourself to do it. At least not for long. That's how I am anyway. So, I can only carry on doing this for so long. The talk is inevitable, unless I make significant improvement in my treatment and miraculously regain my enthusiam back, which is unlikely based on my progress. <br><br>
   
-When Lucy comes out of shower, I tell her we need to talk. She doesn't like the sound of it but remains silent expecting me to start.
+When Lucy comes out of shower, I tell her we need to talk. She doesn't like the sound of it but remains silent expecting me to start.<br><br>
   
 Me: "I don't enjoy doing this anymore."<br>
 Lucy: "What do you mean?"<br>
