@@ -10,7 +10,7 @@ tags: [My Life And Podcasts]
 <div align="left">
 
 My life is like a podcast episode, <br> 
-You hit play and tuck yourslef in your bed, but miss the beginning because your mind wanders off.<br>
+You hit play and tuck yourslef in bed, but miss the beginning because your mind wanders off.<br>
 You then untuck yourself, rewind the episode to its beginning, and tuck yourself back in, just to find your mind wander off again.<br>
 My life is exactly the same with two major differences. <br>
 With a podcase episode, you can rewind it as many times as you want. <br>
