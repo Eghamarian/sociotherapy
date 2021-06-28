@@ -10,7 +10,7 @@ tags: [Right Where We Stand]
 <div align="left">
 
 Right where we stand, there's patience to be had, <br>
-As there are hopes to unloose,<br>
+There are hopes to unloose,<br>
 There are  ways to unchoose.<br>
 There is a vision to revive, <br>
 If there is a will to survive. <br><br>
