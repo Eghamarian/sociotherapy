@@ -10,23 +10,19 @@ tags: [Right Where We Stand]
 <div align="left">
 
 Right where we stand, there's patience to be had, <br>
+There are hopes to unloose,<br>
+There are  ways to unchoose.<br>
 There is a vision to revive, <br>
-There is a will to survive. <br><br>
+If there is a will to survive. <br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
 Right where we stand, hatred's getting out of hand,<br>
 There are fists to unclench,<br>
+There's pain to withstand,<br>
 There is anger to unleash,<br>
 There are kids to unteach, <br><br>
-
-Right, as we try, <br>
-Wrong, as we give in.<br><br>
-
-Right where we stand, there's pain to endure,<br>
-There are hopes to unloose,<br>
-There are  ways to unchoose.<br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
