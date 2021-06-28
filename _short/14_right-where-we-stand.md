@@ -10,7 +10,7 @@ tags: [Right Where We Stand]
 <div align="left">
 
 Right where we stand, there's patience to be had, <br>
-There are hopes to unloose,<br>
+As there are hopes to unloose,<br>
 There are  ways to unchoose.<br>
 There is a vision to revive, <br>
 If there is a will to survive. <br><br>
@@ -36,7 +36,7 @@ Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
 Right where we stand, there's love to go round, <br>
-There are knees to unbend,<br>
+But there are knees to unbend,<br>
 There are wounds to unbound,<br>
 There are hearts to unbreak,<br>
 There are arms to embrace.<br><br>
