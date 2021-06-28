@@ -19,16 +19,17 @@ She has been hinting me of her despair for a year,<br>
 I was consumed by me then, it appears.<br>
 She has skinned now, <br>
 And I have fallen with it,<br>
-Left behind, decomposing in dirt and rain,<br><br>
+Left behind to decompose in dirt and rain.<br><br>
 
 A year after, I am diagnosed with Autism,<br>
-I am not good at receiving hints it seems,<br>
+I am not good at receiving hints after all, it seems,<br>
 But don’t take me for an example,<br>
 It has taken me 40 years to begin to see, and that is not always true still.<br>
 Even if I was normal, I am a man;<br>
 a diagnosable condition in itself,<br>
 Men are often short-sighted,<br>
 So if you are just beginning to send clues,<br>
+Hoping one day he wakes a changed man, and saying and does exactly what you need him to say and do,<br>
 Let go of Hollywood,<br>
 Forget Instagram,<br>
 If you love him, sit him down, and tell him things are piling up,<br>
