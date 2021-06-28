@@ -34,8 +34,8 @@ Let go of Hollywood,<br>
 Forget Instagram,<br>
 If you love him, sit him down, and tell him things are piling up,<br>
 Tell him you will leave in one year, if he doesn’t acknowledge your struggles,<br>
-If you really love him, gently teach him how to do it,<br>
-He will do it too, <br>
+If you really love him, gently teach him how to do it too,<br>
+He will do it, <br>
 Unless he is like me.<br><br>
 
 
