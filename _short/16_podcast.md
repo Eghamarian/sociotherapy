@@ -7,7 +7,7 @@ tags: [My Life And Podcasts]
 ---
   
 <br><br>
-<div align="left">
+<div align="justify">
 
 My life is like a podcast episode. You hit play and tuck yourslef in bed, but miss the beginning because your mind wanders off. You then untuck yourself, rewind the episode to its beginning, and tuck yourself back in, just to find your mind wander off again. My life is exactly the same with two major differences. <br>
 With a podcase episode, you can rewind it as many times as you want. The worst that can happen is you loosing a few minutes of your sleep. With my life, it's not that simple. What I miss is often an amazing chance at romance, or an opportunity to kick start a wonderful career, or the possibility to settle somewhere with a lot of potential for a good life. You can't rewind these, and even if you somehow manage, your options will almost certainly be different. I did it once. And although the new options were as great, I missed them for the second time, and dived into my deepest depression to date. <br><br>
