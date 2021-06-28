@@ -28,7 +28,7 @@ It has taken me 40 years to begin to see, and that is not always true still.<br>
 Even if I was normal, I am a man;<br>
 A diagnosable pre-condition for short-sightedness,<br>
 So if you are just beginning to send clues,<br>
-Hoping one day he sees your hints and wakes a changed man, and says and does exactly what you need him to say and do,<br>
+Hoping one day he sees your hints, and wakes a changed man, and says and does exactly what you need him to say and do,<br>
 Let go of Hollywood,<br>
 Forget Instagram,<br>
 If you love him, sit him down, and tell him things are piling up,<br>
