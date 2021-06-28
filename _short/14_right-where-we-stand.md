@@ -16,9 +16,10 @@ There is a will to survive. <br><br>
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
-Right where we stand, there are fists to unclench,<br>
-There are kids to unteach, <br>
-There is anger to unleash.<br><br>
+Right where we stand, hatred's getting out of hand,<br>
+There are fists to unclench,<br>
+There is anger to unleash,<br>
+There are kids to unteach, <br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
@@ -30,7 +31,7 @@ There are  ways to unchoose.<br><br>
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
-Right where we stand, the Earth's dying under our feet,<br>
+Right where we stand, the Earth's dying under feet,<br>
 There are woods to uncut,<br>
 There's a globe to unheat.<br><br>
 
