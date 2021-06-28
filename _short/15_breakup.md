@@ -10,7 +10,7 @@ tags: [Breakup]
 <div align="left">
 
 She rids herself of me,<br>
-I begin to struggle,<br>
+I begin to struggle,<br> 
 Pointlessly,<br>
 She is only present in body to bid farewell,<br>
 No soul, no room for discussions,<br>
