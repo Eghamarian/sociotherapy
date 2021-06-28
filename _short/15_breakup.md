@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Right Where We Stand
-img: "assets/img/short/right.jpeg"
-date: June, 27 2021
+img: "assets/img/short/breakup.jpeg"
+date: June, 28 2021
 tags: [Right Where We Stand]
 ---
   
