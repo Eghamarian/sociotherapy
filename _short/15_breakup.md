@@ -37,7 +37,7 @@ If you really love him, gently teach him how to do it too,<br>
 He will do it, <br>
 Unless he is like me.<br><br>
 
- 
+ My female readers: "They are all like you."
 
 </div>
 <br><br>
