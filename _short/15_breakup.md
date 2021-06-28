@@ -26,8 +26,7 @@ I am not good at receiving hints after all, it seems,<br>
 But don’t take me for an example,<br>
 It has taken me 40 years to begin to see, and that is not always true still.<br>
 Even if I was normal, I am a man;<br>
-A diagnosable condition in itself,<br>
-Men are often short-sighted,<br>
+A diagnosable pre-condition for short-sightedness,<br>
 So if you are just beginning to send clues,<br>
 Hoping one day he sees your hints and wakes a changed man, and says and does exactly what you need him to say and do,<br>
 Let go of Hollywood,<br>
