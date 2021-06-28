@@ -28,7 +28,8 @@ Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
 Right where we stand, the Earth's dying under feet,<br>
-There are woods to uncut,<br>
+There are trees to uncut,<br>
+There are seas to undump,<br>  
 There's a globe to unheat.<br><br>
 
 Right, as we try, <br>
@@ -44,9 +45,10 @@ Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
 Right where we stand, there's truth to be told,<br>
-There are chests to unchain,<br>
-There are gates to unclose.<br><br>
-
+But there are chests to unchain,<br>
+There are gates to unclose,<br>
+There are laws to uphold.<br><br>
+  
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
