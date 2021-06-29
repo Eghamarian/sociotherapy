@@ -14,7 +14,7 @@ Daniel: "Come. Come sit with me."
 <br><br>
 <br><br>
 <br><br>
-Daniel: "So, did you enjoy the lecture?"
+Daniel: "So, did you enjoy the lecture?"<br>
 
   <p align="left">
       <img src="/assets/img/pexels/long.jpeg">
@@ -22,10 +22,10 @@ Daniel: "So, did you enjoy the lecture?"
 <br>
 
   
-Daniel: "Me too. I think the professor is funny."
-Sarah: "I think he knows alot too."
-Daniel: "I agree."
-Daniel: "Make a wish".
+Daniel: "Me too. I think the professor is funny."<br>
+Sarah: "I think he knows alot too."<br>
+Daniel: "I agree."<br>
+Daniel: "Make a wish".<br>
   
   <p align="left">
       <img src="/assets/img/pexels/breve.jpg">
@@ -33,20 +33,20 @@ Daniel: "Make a wish".
 <br>
 
   
-Daniel: "Left or right?"
-Sarah: "What?"
-Daniel: "Left or right?"
+Daniel: "Left or right?"<br>
+Sarah: "What?"<br>
+Daniel: "Left or right?"<br>
   
   <p align="left">
       <img src="/assets/img/pexels/breve.jpg">
 </p>
 <br>
   
-Daniel: "Nice; you guessed it right."
-He streches his hand towards her face, freezez before he touches it to see if she allows it, then continues to remove the eye lash.
-Daniel: "There."
-Sarah: "Thanks."
-Daniel: "We should go back to class."
+Daniel: "Nice; you guessed it right."<br><br>
+He streches his hand towards her face, freezez before he touches it to see if she allows it, then continues to remove the eye lash.<br><br>
+Daniel: "There."<br>
+Sarah: "Thanks."<br>
+Daniel: "We should go back to class."<br>
 
   <p align="left">
       <img src="/assets/img/pexels/long.jpeg">
