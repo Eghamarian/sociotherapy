@@ -9,11 +9,12 @@ tags: [Room For Imagination]
 <br><br>
 <div align="left">
 
-Daniel: "Come. Come sit with me."
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+Daniel: "Come. Come sit with me." <br>
+  
+  <p align="left">
+      <img src="/assets/img/pexels/long.jpg">
+</p>
+<br>
 Daniel: "So, did you enjoy the lecture?"<br>
 
   <p align="left">
@@ -21,14 +22,13 @@ Daniel: "So, did you enjoy the lecture?"<br>
 </p>
 <br>
 
-  
 Daniel: "Me too. I think the professor is funny."<br>
 Sarah: "I think he knows alot too."<br>
 Daniel: "I agree."<br>
 Daniel: "Make a wish".<br>
   
   <p align="left">
-      <img src="/assets/img/pexels/breve.jpg">
+      <img src="/assets/img/pexels/long.jpg">
 </p>
 <br>
 
