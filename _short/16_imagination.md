@@ -36,11 +36,7 @@ Daniel: "Make a wish".<br>
 Daniel: "Left or right?"<br>
 Sarah: "What?"<br>
 Daniel: "Left or right?"<br>
-  
-  <p align="left">
-      <img src="/assets/img/pexels/breve.jpg">
-</p>
-<br>
+Sarah: "Left."<br>
   
 Daniel: "Nice; you guessed it right."<br><br>
 He streches his hand towards her face, freezez before he touches it to see if she allows it, then continues to remove the eye lash.<br><br>
