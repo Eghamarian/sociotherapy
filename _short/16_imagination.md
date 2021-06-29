@@ -17,7 +17,7 @@ Daniel: "Come. Come sit with me."
 Daniel: "So, did you enjoy the lecture?"<br>
 
   <p align="left">
-      <img src="/assets/img/pexels/long.jpeg">
+      <img src="/assets/img/pexels/breve.jpg">
 </p>
 <br>
 
@@ -49,7 +49,7 @@ Sarah: "Thanks."<br>
 Daniel: "We should go back to class."<br>
 
   <p align="left">
-      <img src="/assets/img/pexels/long.jpeg">
+      <img src="/assets/img/pexels/breve.jpg">
 </p>
 <br>  
   
