@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Room For Imagination
-img: "assets/img/short/imagination.jpeg"
+img: "assets/img/short/imagination.pdf"
 date: June, 29 2021
 tags: [Room For Imagination]
 ---
