@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bias
-img: "assets/img/short/gender.jpeg"
+img: "assets/img/short/bias.pdf"
 date: June, 26 2021
 tags: [Social Mitochondria]
 ---
