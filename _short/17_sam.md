@@ -9,7 +9,8 @@ tags: [My Name Is Sam]
 <br><br>
 <div align="left">
 
-My Name is Sam, and I am hollow. So, you can blame your shit on me.<br>
+My Name is Sam, and I am hollow. <br>
+So, you can blame your shit on me.<br>
 You can accuse me, call me names, and watch me watch you in return.<br>
 Not because I am incapable of understanding your intentions, or the fact that you are shallow,<br>
 but because my name is Sam, and I am hollow.<br> <br>
