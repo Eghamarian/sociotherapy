@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Name Is Sam
-img: "assets/img/short/sam.jpeg"
+img: "assets/img/short/sam.pdf"
 date: June, 30 2021
 tags: [My Name Is Sam]
 ---
