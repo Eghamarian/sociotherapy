@@ -39,7 +39,7 @@ Daniel: "Left or right?"<br>
 Sarah: "Left."<br>
   
 Daniel: "Nice; you guessed it right."<br><br>
-He streches his hand towards her face, freezez before he touches it to see if she objects, then continues to remove the eye lash.<br><br>
+He streches his hand towards her face, freezez before he touches it to see if she objects, then continues to remove the fallen eye lash.<br><br>
 Daniel: "There."<br>
 Sarah: "Thanks."<br>
 Daniel: "We should go back to class."<br>
