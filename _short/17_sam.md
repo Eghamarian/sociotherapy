@@ -11,7 +11,7 @@ tags: [My Name Is Sam]
 
 My Name is Sam, and I am hollow. <br>
 So, you can blame your shit on me.<br>
-You can accuse me, call me names, and watch me watch you in return.<br>
+You can accuse me, call me names, and watch me watch you from the shadow.<br>
 Not because I am incapable of understanding your intentions, or the fact that you are shallow,<br>
 but because my name is Sam, and I am hollow.<br> <br>
 
@@ -22,8 +22,8 @@ Probably because I always find it hard to believe people like you can exist.<br>
 But most likely because my name is Sam, and I am hollow.<br><br>
 
 It is not because I don't want to respond, or I can't understand the problem. It is because by the time I analyze the situation and figure the depth of your selfishness, you will be long gone, relieved of your anger and archiving the memory as the fault of a lazy bum. <br>
-It is because by the time I categorize you as a successful businessman, you will be on the highway enjoying your loud music and reigning the world with your continued arrogance.<br>
-It is because by the time I finalize scanning the experience for my mistake and find none, you will have reached a conclusion that mistake was mine, and will have carried on with your life, guilt-free.<br><br>
+It is because by the time I categorize you as a successful businessman, you will be on the highway enjoying your loud music and reigning the world with your unlimited arrogance.<br>
+It is because by the time I finalize scanning the experience for my mistake and find none, you will have reached a conclusion that the mistake was mine, and will have carried on with your life, guilt-free.<br><br>
 All because my name is Sam, and I am hollow.<br>
   
 
