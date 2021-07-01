@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breakup
-img: "assets/img/short/breakup.jpeg"
+img: "assets/img/short/breakup.pdf"
 date: June, 28 2021
 tags: [Breakup]
 ---
