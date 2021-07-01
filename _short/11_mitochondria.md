@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Social Mitochondria
-img: "assets/img/short/mitochondria.jpeg"
+img: "assets/img/short/mitochondria.pdf"
 date: June, 21 2021
 tags: [Social Mitochondria]
 ---
