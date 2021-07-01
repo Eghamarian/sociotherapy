@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Julian Assange
-img: "assets/img/short/julian.jpeg"
+img: "assets/img/short/template.pdf"
 date: July, 01 2021
 tags: [Julian Assange]
 ---
