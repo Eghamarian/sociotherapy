@@ -9,7 +9,7 @@ tags: [Social Mitochondria]
 <br><br>
 <div align="center">
 
-Get mad if you want; or get brutally lonely, but remember; <br>
+Get mad, or become a nomad, but remember; <br>
 remember we have no way of finding out. <br>
 So believe in lies or surrender. <br>
 Whatever you do, know that nature, only and indifferently, remembers persistence. <br>
