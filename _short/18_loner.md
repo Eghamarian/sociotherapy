@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Loner
-img: "assets/img/short/loner.jpeg"
+img: "assets/img/short/loner.pdf"
 date: June, 30 2021
 tags: [Loner]
 ---
