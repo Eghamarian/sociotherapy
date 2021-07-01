@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recipe For Disaster
-img: "assets/img/short/recipe.jpeg"
+img: "assets/img/short/recipe.pdf"
 date: June, 25 2021
 tags: [Recipe, Disaster]
 ---
