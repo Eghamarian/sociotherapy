@@ -21,7 +21,7 @@ Like when there is still 16 seconds left from my green light, and you misuse a m
 Probably because I always find it hard to understand how life can be accomodating and even generous with those like you. <br><br>
 But most likely because my name is Sam, and I am hollow.<br><br>
 
-It is not because I don't want to respond, or I can't understand the problem. It is because by the time I analyze the situation and figure the depth of your selfishness, you will be long gone, relieved of your anger and archiving the memory as the fault of a lazy bum. <br>
+It is not because I don't want to respond, or I can't understand you for the person that you are. It is because by the time I analyze the situation and figure the depth of your selfishness, you will be long gone, relieved of your anger and archiving the memory as the fault of a lazy bum. <br>
 It is because by the time I categorize you as a successful businessman, you will be on the highway enjoying your loud music and reigning the world with your unlimited arrogance.<br>
 It is because by the time I finalize scanning the experience for my mistake and find none, you will have reached a conclusion that the mistake was mine, and will have carried on with your life, guilt-free.<br><br>
 All because my name is Sam, and I am hollow.<br>
