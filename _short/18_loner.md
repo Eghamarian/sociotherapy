@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Dreaming
-img: "assets/img/short/dream.jpeg"
+title: Loner
+img: "assets/img/short/loner.jpeg"
 date: June, 30 2021
-tags: [My Name Is Sam]
+tags: [Loner]
 ---
   
 <br><br>
