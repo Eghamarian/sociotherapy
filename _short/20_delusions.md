@@ -30,7 +30,7 @@ How long have you been smoking for?<br>
 So that’s what it comes down to, <br>
 Look after your goals, and nightmares will look after themselves. <br><br>
 
-Your eyes, tearful and dry, your lips colourless and blind,<br>
+Your eyes tearful and dry, your lips colourless and blind,<br>
 Go back to your cave,<br>
 No TV for one day,<br>
 The dream you lived while ago,<br>
