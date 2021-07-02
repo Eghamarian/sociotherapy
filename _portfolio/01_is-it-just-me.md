@@ -2,8 +2,7 @@
 layout: post
 title: Is It Just Me?
 img: "assets/img/portfolio/is-it-just-me.jpeg"
-date: Jan, 05 2021
-tags: [Lorem]
+tags: [Is It Just Me]
 ---
  
 
