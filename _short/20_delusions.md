@@ -39,8 +39,7 @@ Don’t care for less or more, what good is it if you can’t take hold.<br> <br
 When in desert, snakes are friends,<br>
 Talk to them,<br>
 Don’t eat them if you do,<br> 
-Don’t be a human,<br>
-Animal will do just fine. <br><br>  
+Be an animal just this once. <br><br>  
   
 Raise your hand,<br>
 Or kill the thought if you can't,<br>
