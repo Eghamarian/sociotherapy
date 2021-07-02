@@ -10,7 +10,7 @@ tags: [Delusions of a dying man]
 <div align="left">
 
 Desert sun burns your soul,<br>
-Beg and it won’t let go,<br>
+Beg, and it won’t let go,<br>
 Cold will soon take over,<br>
 The clothes you dropped while ago,<br>
 Don’t die in desert from cold,<br><br>
@@ -19,11 +19,11 @@ Run where you run,<br>
 Rest when you’re done,<br>
 Just a little, <br>
 Or sleep in a corner if you find one,<br>
-Look around, you will see things,<br>
+Look around, you'll see things,<br>
 Don’t rob your eyes, <br>
 Or rub them if you disbelieve them,<br>
 Hazy? <br>
-It’s natural. Take this pill and you will dream of daisies. <br><br>
+Natural. Take this pill and you will dream of daisies. <br><br>
 
 But doctor, how about the pain?<br>
 How long have you been smoking for?<br>
@@ -33,7 +33,7 @@ Look after your goals, and nightmares will look after themselves. <br><br>
 Your eyes, tearful and dry, your lips colourless and blind,<br>
 Go back to your cave,<br>
 No TV for one day,<br>
-The dream you dropped while ago,<br>
+The dream you lived while ago,<br>
 Don’t care for less or more, what good is it if you can’t take hold.<br> <br>
 
 When in desert, snakes are friends,<br>
@@ -48,7 +48,7 @@ Together they will drain you of life,<br>
 Do if you do, don't if you don't,<br>
 Anything goes here in nomansland.<br><br>
 
-The life you lived while ago,<br>
+The life you had while ago,<br>
 What a life it was, don't hope for another chance.<br>
 Just loosen your grip.<br>
 Let go,<br>
