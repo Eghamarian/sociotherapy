@@ -3,6 +3,7 @@ layout: post
 title: Sick
 img: "assets/img/long/sick.jpeg"
 date: June, 23 2021
+published: false
 tags: [Past, Rearsightedness]
 ---
   
