@@ -2,7 +2,7 @@
 layout: post
 title: Sociological Toolbox
 img: "assets/img/portfolio/sociological-toolbox.jpeg"
-date: August, 16 2014
+date: Jan, 16 2021
 tags: [sociological toolbox]
 ---
 
