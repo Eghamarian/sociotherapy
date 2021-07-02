@@ -15,7 +15,7 @@ Pointlessly,<br>
 She is only present in body to bid farewell,<br>
 No soul, no room for discussions,<br>
 The end began last year, she says,<br>
-She has been hinting me of her despair for a year,<br>
+She has been hinting me of her despair,<br>
 I was consumed by me then, it appears.<br>
 She has skinned now, <br>
 And I have fallen with it,<br>
