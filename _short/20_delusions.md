@@ -21,7 +21,7 @@ Just a little, <br>
 Or sleep in a corner if you find one,<br>
 Look around, you will see things,<br>
 Don’t rob your eyes, <br>
-Or rub them if you disbelieve your eyes,<br>
+Or rub them if you disbelieve them,<br>
 Hazy? <br>
 It’s natural. Take this pill and you will dream of daisies. <br><br>
 
@@ -40,14 +40,19 @@ When in desert, snakes are friends,<br>
 Talk to them,<br>
 Don’t eat them if you do,<br> 
 Don’t be a human,<br>
-Animal will do just fine. <br><br>
-
+Animal will do just fine. <br><br>  
+  
 Raise your hand,<br>
 Or kill the thought if you can't,<br>
 Together they will drain you of life,<br>
 Do if you do, don't if you don't,<br>
 Anything goes here in nomansland.<br><br>
 
+The life you lived while ago,<br>
+What a life it was, don't hope for another chance.<br>
+Just loosen your grip.<br>
+Let go,<br>
+Let go.  <br><br>
 
 </div>
 <br><br>
