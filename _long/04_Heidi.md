@@ -7,7 +7,7 @@ tags: [Heidi]
 ---
   
 <br><br>
-<div align="center">
+<div align="justify">
 
 Her penetrating eyes are burdening me. Her hair is a bit greasy, and her skin spotless and reflecting my image; an image I tend to shun away from. Her silence is giving me options, but I hate options. I never know what to do with them and I often choose the wrong one, which either leads to small talk, or deeper-than-erotic conversations. Either way, they guarantee blockage of romance. But she does not know this about me and am sure does not intend to give me options by remaining silence. She is just a quiet girl with hard-to-match intelligence, which makes her silence all the more uncomfortable. She is contemplative, soft spoken and hard working. She is fiercely competitive and takes her work extremely seriously. Tell her she is less than excellent, and she will disappear just to return with near perfect updates. She does not stand being inferior to others, but she is patient. She believes success comes from hard work, and while she remains quiet when others take over from her, her mind is planning her steps carefully and her determination is at work to push her back to the top. <br><br>
 
