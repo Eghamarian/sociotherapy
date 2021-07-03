@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sick
-img: "assets/img/long/heidi.jpeg"
+title: Heidi
+img: "assets/img/long/heidi.pdf"
 date: July, 03 2021
 tags: [Heidi]
 ---
