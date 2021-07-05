@@ -33,7 +33,7 @@ Look after your goals, and nightmares will look after themselves. <br><br>
 Your eyes tearful and dry, your lips colourless and blind,<br>
 Go back to your cave,<br>
 No TV for one day,<br>
-The dream you lived while ago,<br>
+The dream you dropped while ago,<br>
 Don’t care for less or more, what good is it if you can’t take hold.<br> <br>
 
 When in desert, snakes are friends,<br>
@@ -47,7 +47,7 @@ Together they will drain you of life,<br>
 Do if you do, don't if you don't,<br>
 Anything goes here in nomansland.<br><br>
 
-The life you had while ago,<br>
+The life you dropped while ago,<br>
 What a life it was, don't hope for another chance.<br>
 Just loosen your grip.<br>
 Let go,<br>
