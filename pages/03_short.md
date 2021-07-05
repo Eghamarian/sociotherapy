@@ -1,8 +1,7 @@
 --- 
 layout: page
-title : Insta-thoughts
+title : Passing Thoughts
 permalink: /short/
-subtitle: "Passing Thoughts" 
 feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Archive]
 ---
