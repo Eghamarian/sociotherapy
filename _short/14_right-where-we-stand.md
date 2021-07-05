@@ -47,7 +47,7 @@ Wrong, as we give in.<br><br>
 Right where we stand, there's truth to be told,<br>
 But there are chests to unchain,<br>
 There are gates to unclose,<br>
-There are laws to uphold.<br><br>
+And there are laws to uphold.<br><br>
   
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
