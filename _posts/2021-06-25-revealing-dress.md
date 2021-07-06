@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Some Women Are Wrong
+title: Why Looking Sexy Is Wrong
 tags: [Women, Feminism, Sexualization, Objectification]
 excerpt_separator: <!--more-->
 ---
