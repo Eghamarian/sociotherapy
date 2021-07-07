@@ -44,7 +44,7 @@ Be an animal just this once. <br><br>
   
 Raise your hand,<br>
 Or kill the thought if you can't,<br>
-Together they will drain you of life,<br>
+Together they will drain you,<br>
 Do if you do, don't if you don't,<br>
 Anything goes here in nomansland.<br><br>
 
