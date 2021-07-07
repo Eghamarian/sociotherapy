@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Julian Assange
+title: Justice For Some
 img: "assets/img/short/julian.pdf"
 date: July, 01 2021
 tags: [Julian Assange]
