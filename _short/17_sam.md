@@ -17,7 +17,7 @@ but because my name is Sam, and I am hollow.<br> <br>
 
 Like when I am draggin myself over the crosswalk to go home after seeking refuge in the emergency room of a hospital for wanting to put out my light,<br>
 and you have made an error in choosing your lane and are blocking the car behind that is honking to complain, and you shout at me "Move your ass" twice to pressure me to run, so that you can change your lane right behind the trafic light. <br>
-Like when there is still 16 seconds left from my green light, and you misuse a mano a borsa and shout at me like a person in the right, <br><br>
+Like when there is still 16 seconds left from my green light, and you misuse a mano a borsa and shout at me like a person in the right, <br>
 and I just watch you. <br>
 Probably because I always find it hard to understand how life can be accomodating and even generous with those like you. <br><br>
 But most likely because my name is Sam, and I am hollow.<br><br>
