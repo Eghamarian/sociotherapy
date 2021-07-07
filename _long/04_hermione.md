@@ -3,7 +3,6 @@ layout: post
 title: Hermione
 img: "assets/img/long/hermoine.pdf"
 date: July, 03 2021
-published: false
 tags: [hermione]
 ---
   
