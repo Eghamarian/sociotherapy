@@ -28,7 +28,7 @@ tags: [Social Mitochondria]
 - That's different.<br>
 - You are making no sense at all.<br> 
 - Please????<br>
-- Ugh. Alright; but just because I love, doesn't mean you can get away with it every time.<br> 
+- Ugh. Alright; but just because I love you, doesn't mean you can get away with it every time.<br> 
 - Promise. Promise. Just this once. <br>
 - Ok. <br>
 - You are the most wonderful wife ever. I Love you.<br>
