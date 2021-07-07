@@ -22,7 +22,7 @@ Right where we stand, hatred's getting out of hand,<br>
 There are fists to unclench,<br>
 There is anger to unleash,<br>
 There are kids to unteach, <br>
-There's pain to withstand.<br><br>
+There is pain to withstand.<br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
