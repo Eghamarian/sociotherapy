@@ -12,6 +12,8 @@ tags: [Social Mitochondria]
 - Honey!<br>
 - Yeah?<br>
 - We need to change our car.<br>
+- We do?<br>
+- We do.<br>
 - And get what instead?<br>
 - A Tesla?<br>
 - Why?<br>
