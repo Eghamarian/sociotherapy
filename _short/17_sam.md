@@ -20,7 +20,7 @@ and you have made an error in choosing your lane <br>
 and are blocking the car behind that is honking to complain, <br>
 and you shout at me "Move your ass" twice to pressure me to run, so that you can change your lane right behind the traffic light. <br><br>
 
-Like when there is still 16 seconds left from my green light, <br>
+Like when there is still 8 seconds left from my green light, <br>
 and you misuse a mano a borsa and shout at me like a person in the right, <br>
 and I just watch you. <br>
 Probably because I always find it hard to understand how life can be accommodating and even generous with those like you. <br>
