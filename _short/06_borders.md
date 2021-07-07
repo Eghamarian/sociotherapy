@@ -10,7 +10,7 @@ tags: [Refugees, Borders]
 <div align="center">
 
 From the watch tower, he watches over the border through his rifle's scope; <br>
-a border that is indiscerinible, if not for the wall. <br>   
+a border that is indiscernible, if not for the wall. <br>   
 He has been instructed to keep watchful eyes, ever since his army invaded the neighbours last fall. <br>
 Famine and disease are roaring on the other side, and refugees are expected to rise. <br>
 He has been instructed to shout, and to shout, and if not listened to, to shoot.<br>
@@ -20,7 +20,7 @@ The soldier in the tower can and does; at first. <br>
 It feels to him like Game of Thrones, where the dead are climbing up the wall at Winterfell. <br>
 But he somehow knows that was a fantasy; we all hope. <br>  
 Bored and mind-tripping at Hollywood, he thinks to himself, and thanks his president for the wall. <br>
-Although some manage to cross, the wall does a good job of keeping away the men, the air, polution, bacteria, viruses, hatred, similarities and hope. <br>
+Although some manage to cross, the wall does a good job of keeping away the men, the air, pollution, bacteria, viruses, hatred, similarities and hope. <br>
 He thanks his president in his mind, kisses the cross around his neck, fills with pride, <br> and shouts, <br> and shouts, <br> and...
   
 </div>
