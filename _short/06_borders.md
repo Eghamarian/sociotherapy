@@ -7,7 +7,7 @@ tags: [Refugees, Borders]
 ---
 
 <br><br>
-<div align="center">
+<div align="left">
 
 From the watch tower, he watches over the border through his rifle's scope; <br>
 a border that is indiscernible, if not for the wall. <br>   
