@@ -11,7 +11,7 @@ tags: [Right Where We Stand]
 
 Right where we stand, there's patience to be had, <br>
 There are hopes to unloose,<br>
-There are  ways to unchoose.<br>
+There are ways to unchoose,<br>
 There is a vision to revive, <br>
 If there is a will to survive. <br><br>
 
@@ -20,26 +20,26 @@ Wrong, as we give in.<br><br>
 
 Right where we stand, hatred's getting out of hand,<br>
 There are fists to unclench,<br>
-There's pain to withstand,<br>
 There is anger to unleash,<br>
-There are kids to unteach, <br><br>
+There are kids to unteach, <br>
+There's pain to withstand.<br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
 Right where we stand, the Earth's dying under feet,<br>
 There are trees to uncut,<br>
-There are seas to undump,<br>  
+There are seas to undump,<br>
 There's a globe to unheat.<br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
 
 Right where we stand, there's love to go round, <br>
-But there are knees to unbend,<br>
-There are wounds to unbound,<br>
-There are hearts to unbreak,<br>
-There are arms to embrace.<br><br>
+But there are hearts to unbreak,<br>
+There are arms to embrace,<br>
+There are knees to unbend,<br>
+There are wounds to unbound.<br><br>
 
 Right, as we try, <br>
 Wrong, as we give in.<br><br>
@@ -48,9 +48,10 @@ Right where we stand, there's truth to be told,<br>
 But there are chests to unchain,<br>
 There are gates to unclose,<br>
 And there are laws to uphold.<br><br>
-  
-Right, as we try, <br>
+
+Right, as we try.<br>
 Wrong, as we give in.<br><br>
+
 
 
 
