@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bias
+title: Steretype
 img: "assets/img/short/bias.pdf"
 date: June, 26 2021
 tags: [Social Mitochondria]
@@ -21,7 +21,7 @@ tags: [Social Mitochondria]
 - We have a private jet!<br>
 - That's ok. Half of them have one too.<br>
 - Who?<br>
-- A group of celebrities I've been hanging out with.<br> 
+- A group of internet celebrities I've been hanging out with.<br> 
 - What does that have anything to do with our car?<br>
 - They are extremely environmentally conscious, and I really want to fit in.<br> 
 - Who are these celebrities?<br>
