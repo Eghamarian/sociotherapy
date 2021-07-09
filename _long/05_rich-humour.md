@@ -5,7 +5,7 @@ img: "assets/img/long/rich.pdf"
 date: July, 09 2021
 tags: [Past, Rearsightedness]
 ---
-  
+
 <br><br>
 <div align="left">
 
@@ -54,7 +54,7 @@ Blue-suited-sir: Rodney Jamberlain<br>
 
 You don’t think it’s possible, do you? Well, you should, because it is. I know a rich man, proud of his accomplishments, who used to defecate on a sheet of newspaper with his friends when they were kids, and throw the turd out the window by suddenly pulling the newspaper from both sides, making it look like a turd jumping on a paper trampoline, and watch to see if it landed on the head of those walking below. Games the rich play.<br><br>
   
-And I know a few university graduates who, through no fault of their own, fell victim to destitution, and are now homeless. I can't give you names, but I can refer you to a YouTube channel called Invisible People, if you don't believe me, and if you wish to see some of these people. Here is an exmple: <br><br>
+And I know a few university graduates who, through no fault of their own, fell victim to destitution, and are now homeless. I can't give you names, but I can refer you to a YouTube channel called Invisible People, if you don't believe me, and if you wish to see some of these people. But remember, people on Invisible People are not beggars. Most are too dignified, too shy or too weak to ask for help. My story is not about them. The focus of my story is the rich, not the poor. Here is an example of a homeless university graduate. <br><br>
   
   
 <iframe width="907" height="510" src="https://www.youtube.com/embed/nT3VGI0V5Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
