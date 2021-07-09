@@ -26,7 +26,7 @@ Sir: "No need for a hug, just go to him and tell him that".<br>
 Beggar: "Margarett..", <br>
 Sir and the beggar simultaneously: "is lonely".<br>
 Sir: "That's right."<br>
-Beggar looks nods violently to show he has understood the task fully, hides the tenner somewhere secure and moves towards the blue-suited-sir. Midway he looks back to give a thumbs up showing the sirs are getting their money’s worth, and receives thumbs up in return from behind cellphone cameras.<br>
+Beggar nods violently to show he has understood the task fully, hides the tenner somewhere secure and moves towards the blue-suited-sir. Midway he looks back to give a thumbs up showing the sirs are getting their money’s worth, and receives thumbs up in return from behind cellphone cameras.<br>
 Beggar: "Sir? Um, Good day sir. I apologize for intruding your conversation sir. I'd like to let you know that, um, Margarett is lonely sir".<br>
 Blue-suited-sir feels all the beer he as had rushing to his brain, and throws the rest of it in his face. The bouncer rushes to shoo the beggar who is busy licking the beer of his beard. And it’s a good beer if he may say so.  <br>
 Beggar: "Sir, I am awfully sorry sir."<br>
