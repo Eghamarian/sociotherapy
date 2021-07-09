@@ -52,15 +52,16 @@ Blue-suited-sir: Rodney Jamberlain<br>
                            BA International relations<br>
                            Diagnosis: Competitive/Aggressive and alarmingly getting close with the CEO. <br><br>
 
-You don’t think it’s possible, do you? Well, you should, because it is. I know a rich man, proud of his accomplishments, who used to defecate on a sheet of newspaper with his friends when they were kids, and throw the turd out the window by suddenly pulling the newspaper from both sides, making it look like a turd jumping on a paper trampoline, and watch to see if it landed on those walking below. He no longer does that with a real turd, and if he does, he no longer tells me about it. But does tell me that he sleeps with a new woman every week, and let's his wife think he is on business trips and in business meetings. When I ask him why, he says it is because his job is hard, and that his wife does not have similar needs anyway. This is while he does not let men, including me, meet his wife. So the turd is metaphorical now. <br><br>
+You don’t think it’s possible, do you? Well, you should, because it is. I know a rich man from a rich family, who you don't get to meet unless you have good connections. He is extremely confident and proud of his accomplishments. One of these accomplishments is defecating on a sheet of newspaper with his friends when they were kids, and throwing the turd out the window by suddenly pulling the newspaper from both sides, making it look like a turd jumping on a paper trampoline, and watching to see if it landed on those walking below. He no longer does that with a real turd, and if he does, he no longer tells me about it. But does tell me that he sleeps with a new woman every week, and let's his wife think he is on business trips and in business meetings. When I ask him why, he says it is because his job is hard, and that his wife does not have similar needs anyway. This is while he does not let men, including me, meet with his wife. So the turd is metaphorical now, but is a turd nonetheless. <br><br>
   
-And I know a few university graduates who, through no fault of their own, fell victim to destitution, and are now homeless. I can't give you names, but I can refer you to a YouTube channel called <a href="https://www.youtube.com/c/InvisiblePeople" target="_blank">Invisible People </a>, if you don't believe me, and if you wish to see some of these people. But remember, people on Invisible People are not beggars. Most are too dignified, too shy or too weak to ask for help. My story is not about them. The focus of my story is the rich, not the poor. Here is an example of a homeless university graduate. <br><br>
+And I know a few university graduates who, through no fault of their own, fell victim to destitution, and are now homeless. I can't give you names, but I can refer you to a YouTube channel called <a href="https://www.youtube.com/c/InvisiblePeople" target="_blank">Invisible People </a>, if you don't believe me, and if you wish to see some of them yourself. But remember, people on Invisible People are not beggars. Most are too dignified, too shy or too weak to ask for help. My story is not about them. The focus of my story is the rich, not the poor. Here is an example of a homeless university graduate. <br><br>
   
   
 <iframe width="907" height="510" src="https://www.youtube.com/embed/nT3VGI0V5Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
   <br><br>
-  You can find more of them here: <br><br>
+  
+ You can find more of them here: <br><br>
   
  <a href="https://www.youtube.com/c/InvisiblePeople/search?query=degree" target="_blank">https://www.youtube.com/c/InvisiblePeople/search?query=degree</a>
 
