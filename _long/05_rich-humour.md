@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rich's Humour
+title: Games The Rich Play
 img: "assets/img/long/sick.jpeg"
 date: July, 09 2021
 tags: [Past, Rearsightedness]
