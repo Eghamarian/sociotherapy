@@ -10,7 +10,7 @@ tags: [Past, Rearsightedness]
 <div align="left">
 
 Beggar: "Sir? Good Sir? Would you spare me some change please?" <br>
-Sir to his friend sir: "We seriously need to consider their offer. It’s not like we come across an opportunity like this everyday. Besides, …"<br>
+Sir to his friend sir, as they walk out of the building: "We seriously need to consider their offer. It’s not like we come across an opportunity like this everyday. Besides, …"<br>
 Beggar: "Pardon me sir? I am homeless and starving. Would you spare me some change please?"<br>
 Sir to beggar: "Sorry." <br>
 Sir to his friend sir: "Besides, even if the market crashes, we are insured and we get compensated."<br>
