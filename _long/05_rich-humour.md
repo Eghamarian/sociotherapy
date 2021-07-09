@@ -21,16 +21,16 @@ Sir: "What would you do for a quid? Could you moon walk?" Chuckles the good sir 
 Beggar: "I don’t know what that is sir. But I could stand on my head, if it pleases you sir. I’m just a bit dizzy sir." <br>
 Sir and his friend sir whisper in each others’ ears and reach a consensus, it looks as if.<br>
 Sir: "Ok, here is a tenner. I want you to go to that gentlemen in blue suit having a beer outside the pub, and tell him Margarett is lonely."<br>
-Beggar looks at the tenner, and wants to do more for the gentleman. But Sir, pushes him back.<br>
-Sir: "No need for a hug, just go to him and tell him that".<br>
+Beggar looks at the tenner, and wants to do more for the gentleman. But the good sir blocks him.<br>
+Sir: "No need for a hug, just go to him and tell him that". <br>
 Beggar: "Margarett..", <br>
 Sir and the beggar simultaneously: "is lonely".<br>
 Sir: "That's right."<br>
 Beggar nods violently to show he has understood the task fully, hides the tenner somewhere secure and moves towards the blue-suited-sir. Midway he looks back to give a thumbs up showing the sirs are getting their money’s worth, and receives thumbs up in return from behind cellphone cameras.<br>
 Beggar: "Sir? Um, Good day sir. I apologize for intruding your conversation sir. I'd like to let you know that, um, Margarett is lonely sir".<br>
-Blue-suited-sir feels all the beer he as had rushing to his brain, and throws the rest of it in his face. The bouncer rushes to shoo the beggar who is busy licking the beer of his beard. And it’s a good beer if he may say so.  <br>
-Beggar: "Sir, I am awfully sorry sir."<br>
-He wants to look at the generous sirs to let them know the deed is done, but is afraid to breech the confidentiality clause. But the sirs are waving at the blue-suited-sir voluntarily. He doesn’t know the game that the rich play. So, thinkings it’s ok, he gives them one last thumbs up and thinks about how to divide the tenner between food and some sort of pain killer. <br><br>
+Blue-suited-sir feels all the beer he as had rushing to his face, and throws the rest of it the beggar's face. The bouncer rushes to shoo the beggar who is busy licking the beer of his beard. And it’s a good beer, if he may say so.  <br>
+Beggar: "Sir, I am awfully sorry sir." He means it. <br>
+He wants to look at the generous sirs to let them know the deed is done, but is afraid to breech the confidentiality clause. But the sirs are waving at the blue-suited-sir voluntarily. He doesn’t know the game that the rich play. So, thinkings it’s ok, he gives them one last thumbs up, and thinks about how to divide the tenner between food and some sort of pain killer. <br><br>
  
  
 
