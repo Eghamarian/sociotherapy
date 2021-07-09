@@ -8,7 +8,7 @@ tags: [Past, Rearsightedness]
 ---
   
 <br><br>
-<div align="center">
+<div align="left">
 
 Beggar: "Sir? Good Sir? Would you spare me some change please?" <br>
 Sir to his friend sir: "We seriously need to consider their offer. It’s not like we come across an opportunity like this everyday. Besides, …"<br>
