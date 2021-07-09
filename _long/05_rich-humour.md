@@ -52,7 +52,7 @@ Blue-suited-sir: Rodney Jamberlain<br>
                            BA International relations<br>
                            Diagnosis: Competitive/Aggressive and alarmingly getting close with the CEO. <br><br>
 
-You don’t think it’s possible, do you? Well, you should, because it is. I know a rich man, proud of his accomplishments, who used to defecate on a sheet of newspaper with his friends, and throw the turd out the window by suddenly pulling the newspaper from both sides, making it look like a turd jumping on a paper trampoline, and watch to see if it landed on the head of those walking under the window. Games the rich play.<br>
+You don’t think it’s possible, do you? Well, you should, because it is. I know a rich man, proud of his accomplishments, who used to defecate on a sheet of newspaper with his friends when they were kids, and throw the turd out the window by suddenly pulling the newspaper from both sides, making it look like a turd jumping on a paper trampoline, and watch to see if it landed on the head of those walking below. Games the rich play.<br>
 
 
 
