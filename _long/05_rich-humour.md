@@ -2,7 +2,7 @@
 layout: post
 title: The Rich's Humour
 img: "assets/img/long/sick.jpeg"
-date: June, 23 2021
+date: July, 09 2021
 published: false
 tags: [Past, Rearsightedness]
 ---
