@@ -40,15 +40,15 @@ Beggar: Samuel Paddleton<br>
               BA English Literature<br>
               Diagnosis: uncompetitive <br><br>
               
-Sir: Rocky Eglinston <br>
+Sir: James Eglinston <br>
        BA English Literature<br>
        Diagnosis: Competitive/Aggressive <br><br>
 
-Friend Sir: Samuel Danny<br>
+Friend Sir: Brandon Danny<br>
                  Friends with CEO<br>
                  Diagnosis: NA <br><br>
 
-Blue-suited-sir: Rodney Rockey<br>
+Blue-suited-sir: Rodney Jamberlain<br>
                            BA International relations<br>
                            Diagnosis: Competitive/Aggressive and alarmingly getting close with the CEO. <br><br>
 
