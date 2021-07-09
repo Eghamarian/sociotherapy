@@ -42,15 +42,15 @@ Beggar: Samuel Paddleton<br>
               
 Sir: Rocky Eglinston <br>
        BA English Literature<br>
-       Diagnosis: Working for Samuel Danny<br><br>
+       Diagnosis: Competitive/Aggressive <br><br>
 
 Friend Sir: Samuel Danny<br>
                  Friends with CEO<br>
-                 Diagnosis: Do you want to never work again? <br><br>
+                 Diagnosis: NA <br><br>
 
 Blue-suited-sir: Rodney Rockey<br>
                            BA International relations<br>
-                           Diagnosis: Rocky Eglinston’s rival in striking the deal<br><br>
+                           Diagnosis: Competitive/Aggressive and alarmingly getting close with the CEO. <br><br>
 
 You don’t think it’s possible, do you? Well, you should, because it is. <br>
 
