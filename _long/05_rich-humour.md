@@ -30,7 +30,7 @@ Beggar nods violently to show he has understood the task fully, hides the tenner
 Beggar: "Sir? Um, Good day sir. I apologize for intruding your conversation sir. I'd like to let you know that, um, Margarett is lonely sir".<br>
 Blue-suited-sir feels all the beer he has had rushing to his face, and throws the rest of it the beggar's face. The bouncer rushes to shoo the beggar who is busy licking the beer off his beard. And it’s a good beer, if he may say so.  <br>
 Beggar: "Sir, I am awfully sorry sir." He means it. <br>
-He wants to look at the generous sirs to let them know the deed is done, but is afraid to breech the confidentiality clause. He subtly peeks at them, and the sirs are waving at the blue-suited-sir voluntarily, as if to let him know if was them. He doesn’t know the game that the rich play. But they don't seem to mind, so he gives them one last thumbs up, and thinks about how to divide the tenner between food and some sort of pain killer. <br><br>
+He wants to look at the generous sirs to confirm the deed is done, but is afraid to breech the confidentiality clause. He subtly peeks at them, and the sirs are waving at the blue-suited-sir voluntarily, as if to let him know if was them. He doesn’t know the game that the rich play. But they don't seem to mind, so he gives them one last thumbs up, and thinks about how to divide the tenner between food and some sort of pain killer. <br><br>
  
  
 
