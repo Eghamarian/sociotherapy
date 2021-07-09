@@ -16,7 +16,7 @@ Sir to beggar: "Sorry." <br>
 Sir to his friend sir: "Besides, even if the market crashes, we are insured and get compensated."<br>
 Beggar: "Sir, I have a good voice sir. If it pleases you, I can sing for you for a fiver sir. I haven’t eaten for three days sir."<br>
 His friend sir to sir: "That’s a bargain", chuckles the good sir. <br>
-Sir to his friend sir: "A concert for a fiver? Not too bad, is it?", comments the good sir to show he is not ignoring the beggar now that his friend sir is acknowledging him. He even plays along and pulls another joke. Anything for the friend sir to take that deal. <br>
+Sir to his friend sir: "A concert for a fiver? Not too bad, is it?", comments the good sir to show he is not ignoring the beggar now that his friend sir is acknowledging him. He even plays along and pulls another joke. Anything for the friend sir to push that deal. <br>
 Sir: "What would you do for a quid? Could you moon walk?" Chuckles the good sir and looks at his friend sir for approval that he did well, and that they are a team. <br>
 Beggar: "I don’t think I can moon walk sir. But I could stand on my head, if it pleases you sir. I’m just a bit dizzy sir." <br>
 Sir and his friend sir whisper in each others’ ears and reach a consensus, it looks as if.<br>
