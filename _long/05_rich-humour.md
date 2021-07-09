@@ -57,9 +57,8 @@ You don’t think it’s possible, do you? Well, you should, because it is. I kn
 And I know a few university graduates who, through no fault of their own, fell victim to destitution and are now homeless. I can give you names, but I can refer you to a YouTube channel called Invisible People, if you wish to see some of these people, and if you don't believe me. Here is an exmple:
   
   
-  https://youtu.be/nT3VGI0V5Rs
-  
-  
+<iframe width="907" height="510" src="https://www.youtube.com/embed/nT3VGI0V5Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+ 
   You can find more of them here:
   
   https://www.youtube.com/c/InvisiblePeople/search?query=degree
