@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Steretype
-img: "assets/img/short/bias.pdf"
+title: Steretypes
+img: "assets/img/short/stereotype.pdf"
 date: June, 26 2021
-tags: [Social Mitochondria]
+tags: [gender, stereotypes]
 ---
   
 <br><br>
