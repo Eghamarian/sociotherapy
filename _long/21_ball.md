@@ -7,7 +7,7 @@ tags: [The ball]
 ---
 
 <br><br>
-<div align="left">
+<div align="justify">
 
 
 I was invited to a ball last week. Not that I am the eligible material to be invited to such events; I just met the person throwing the party through another friend I happen to know from high society. And I know him because we attended the same school, and he befriended me to do some of his assignments for him. I think we are still friends because he may need me to do his children’s assignments for them one day . Anyway, I met his friend two weeks ago, over what they called a casual dinner, and I called the most painful dinner of my entire life. I did not shit for two days after that to get my money’s worth of nutritions out of the food I swallowed that night. <br><br>
