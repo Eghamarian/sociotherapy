@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Dirty Russian
-img: "assets/img/long/ball.pdf"
+img: "assets/img/long/dirtyrussian.pdf"
 date: July, 11 2021
-tags: [The ball]
+tags: [dirty russian]
 ---
 
 <br><br>
