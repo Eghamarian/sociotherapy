@@ -11,7 +11,7 @@ tags: [Delusions of a dying man]
 
 Desert sun burns your soul,<br>
 Beg, and it won’t let go,<br>
-Cold will soon take over,<br>
+Cold of night will soon take over,<br>
 The clothes you dropped while ago,<br><br>
 <!--Don’t die in desert from cold,<br><br>-->
 
