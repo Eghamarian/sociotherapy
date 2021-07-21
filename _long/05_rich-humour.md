@@ -10,16 +10,16 @@ tags: [Past, Rearsightedness]
 <div align="left">
 
 Beggar: "Sir? Good Sir? Would you spare me some change please?" <br>
-Sir to his friend sir, as they walk out of the building: "We seriously need to consider their offer. It’s not like we come across an opportunity like this everyday. Besides, …"<br>
+Sir to his Boss, as they walk out of the building: "We seriously need to consider their offer. It’s not like we come across an opportunity like this everyday. Besides, …"<br>
 Beggar: "Pardon me sir? I am homeless and starving. Would you spare me some change please?"<br>
 Sir to beggar: "Sorry." <br>
-Sir to his friend sir: "Besides, even if the market crashes, we are insured and get compensated."<br>
+Sir to his Boss: "Besides, even if the market crashes, we are insured and get compensated."<br>
 Beggar: "Sir, I have a good voice sir. If it pleases you, I can sing for you for a fiver sir. I haven’t eaten for three days sir."<br>
-His friend sir to sir: "That’s a bargain", chuckles the good sir. <br>
-Sir to his friend sir: "A concert for a fiver? Not too bad, is it?", comments the good sir to show he is not ignoring the beggar now that his friend sir is acknowledging him. He even plays along and pulls another joke. Anything for the friend sir to push that deal. <br>
-Sir: "What would you do for a quid? Could you moon walk?" Chuckles the good sir and looks at his friend sir for approval that he did well, and that they are a team. <br>
+Boss to sir: "That’s a bargain", chuckles the good sir. <br>
+Sir to his Boss: "A concert for a fiver? Not too bad, is it?", comments the good sir to show he is not ignoring the beggar now that his Boss is acknowledging him. He even plays along and pulls another joke. Anything for the Boss to push that deal. <br>
+Sir: "What would you do for a quid? Could you moon walk?" Chuckles the good sir and looks at his Boss for approval that he did well, and that they are a team. <br>
 Beggar: "I don’t think I can moon walk sir. But I could stand on my head, if it pleases you sir. I’m just a bit dizzy sir." <br>
-Sir and his friend sir whisper in each others’ ears and reach a consensus, it looks as if.<br>
+Sir and his Boss whisper in each others’ ears and reach a consensus, it looks as if.<br>
 Sir: "Ok, here is a tenner. I want you to go to that gentlemen in blue suit having a beer outside that pub, and tell him Margarett is lonely."<br>
 Beggar looks at the tenner in disbelief, and wants to do more for the gentleman. But the good sir blocks him.<br>
 Sir: "No need for a hug, just go to him and tell him that". <br>
@@ -44,7 +44,7 @@ Sir: James Eglinston <br>
        BA English Literature<br>
        Diagnosis: Competitive/Aggressive <br><br>
 
-Friend Sir: Brandon Danny<br>
+Boss: Brandon Danny<br>
                  Friends with CEO<br>
                  Diagnosis: NA <br><br>
 
