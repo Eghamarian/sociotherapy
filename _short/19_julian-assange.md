@@ -10,7 +10,7 @@ tags: [Julian Assange]
 <div align="left">
 
 I commit the most heinous of crimes, make it classified, and go home to my kids, <br>
-You expose my crime, become charged under the Espionage Act, and die without seeing yours.<br>
+You expose my crimes, become charged under the Espionage Act, and die without seeing yours.<br>
 
 </div>
 <br><br>
