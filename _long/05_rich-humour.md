@@ -4,7 +4,7 @@ title: Games The Rich Play
 img: "assets/img/long/rich.pdf"
 date: July, 09 2021
 published: false
-tags: [Past, Rearsightedness]
+tags: [games the rich play]
 ---
 
 <br><br>
