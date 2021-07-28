@@ -19,9 +19,9 @@ Jeff Bezos introduces Blue Moon as the Earth's salvation, in face of the seeming
 <div class="embed-container">
 <iframe width="923" height="519" src="https://www.youtube.com/embed/XfdBZdL8_nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<br><br><br>
 Dr. Noc puts it really well:
-
+<br><br>
 
 <iframe width="926" height="521" src="https://www.youtube.com/embed/s2FBjJQYsqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
