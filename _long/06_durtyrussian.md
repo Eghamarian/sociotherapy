@@ -3,6 +3,7 @@ layout: post
 title: The Dirty Russian
 img: "assets/img/long/dirtyrussian.pdf"
 date: July, 20 2021
+published: false
 tags: [dirty russian]
 ---
 
