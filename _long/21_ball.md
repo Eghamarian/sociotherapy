@@ -3,7 +3,6 @@ layout: post
 title: The Ball
 img: "assets/img/long/ball.pdf"
 date: July, 11 2021
-published: false
 tags: [The ball]
 ---
 
