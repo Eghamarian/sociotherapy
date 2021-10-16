@@ -3,7 +3,6 @@ layout: post
 title: Cum'n Chat
 img: "assets/img/long/cum'nchat.pdf"
 date: June, 19 2021
-published: false
 tags: [Cum'n Chat]
 ---
 
