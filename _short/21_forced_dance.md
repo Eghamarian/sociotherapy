@@ -35,7 +35,7 @@ She checked her phone to judge who was worth responding to, <br>
 She quickly responded to a few, <br>
 I was empty as a man, but full of desire to remain, <br>
 She danced her way out though, <br>
-I sat down hollow, looking at the wall blocking my view for years, <br>
+I sat down hollow, looking at the wall blocking my view, <br>
 And I had no idea what she looked at next, <br>
 And never will.<br>
   
