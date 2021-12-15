@@ -37,7 +37,7 @@ I was empty as a man, but full of desire to remain, <br>
 She danced her way out, <br>
 I sat down hollow, looking at the wall blocking my view for years, <br>
 And I had no idea what she looked at next, <br>
-And never will,<br>
+And never will.<br>
   
 
 </div>
