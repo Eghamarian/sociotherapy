@@ -27,7 +27,8 @@ I shut down and diverted my brain two floors down,<br>
 She let me, and encouraged me to end it soon; seductively,<br>
 I wanted to please her, but shutters were shut; understandingly.<br>
 I licked her, cherished her, caressed her, worshiped her, but the window to the garden was foggy, the lock was rusty, and the window was safeguarding the flood of 
-emotions coming through,<br>
+emotions coming through, <br>
+Understandably, <br>
 I arrived and she could wrap up, <br>
 She thought about the next stop, discretely <br>
 She checked her phone to judge who was worth responding to, <br>
