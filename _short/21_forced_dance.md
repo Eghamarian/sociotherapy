@@ -29,7 +29,7 @@ I wanted to please her, but shutters were shut; naturally.<br>
 I licked her, cherished her, caressed her, worshiped her, but the window to the garden was foggy, the lock was rusty, and the frame was safeguarding the flood of 
 emotions coming through, <br>
 Understandably, <br>
-So I gave up and focused hard to shorten her misery and I arrived; thankfully, 
+So I gave up and focused hard to shorten her misery and I arrived; thankfully, <br>
 She wrapped up and thought about the next stop; discretely, <br>
 She checked her phone to judge who was worth responding to, <br>
 She quickly responded to a few, <br>
