@@ -15,7 +15,7 @@ I paid for touch,<br>
 She arrived as an angel,<br>
 Looked for notes sitting on a side table,<br>
 She found them and turned on the character,<br>
-She started aggressive, which shows many are need in need of trusted direction,<br>
+She started aggressive, which shows many are need of trusted direction,<br>
 I invited her to calm down,<br>
 She looked puzzled but calmed down, and crawled into the bed, <br>
 Disgusted but consumed with consumerism,<br>
