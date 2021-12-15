@@ -25,7 +25,7 @@ I crawled next to her and she overcame her inhibitions; seemingly successfully,<
 But what do I know; I am blind for being a man, <br>  
 I shut down and diverted my brain two floors down,<br>
 She let me, and encouraged me to end it soon; seductively,<br>
-I wanted to please her, but shutters were shut; understandingly.<br>
+I wanted to please her, but shutters were shut; naturally.<br>
 I licked her, cherished her, caressed her, worshiped her, but the window to the garden was foggy, the lock was rusty, and the frame was safeguarding the flood of 
 emotions coming through, <br>
 Understandably, <br>
