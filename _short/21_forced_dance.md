@@ -30,7 +30,7 @@ I licked her, cherished her, caressed her, worshiped her, but the window to the 
 emotions coming through, <br>
 Understandably, <br>
 I arrived and she could wrap up, <br>
-She thought about the next stop, discretely <br>
+She thought about the next stop, discretely, <br>
 She checked her phone to judge who was worth responding to, <br>
 She quickly responded to a few <br>
 I was empty as a man, but full of desire to remain, <br>
