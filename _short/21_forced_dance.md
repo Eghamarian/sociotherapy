@@ -32,7 +32,7 @@ Understandably, <br>
 I arrived and she could wrap up, <br>
 She thought about the next stop, discretely, <br>
 She checked her phone to judge who was worth responding to, <br>
-She quickly responded to a few <br>
+She quickly responded to a few, <br>
 I was empty as a man, but full of desire to remain, <br>
 She danced her way out, <br>
 I sat empty, looking at the wall blocking my view for years, <br>
