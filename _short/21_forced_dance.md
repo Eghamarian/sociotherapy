@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delusions Of A Dying Man
+title: The Forced Dance
 img: "assets/img/short/forced_dance.pdf"
 date: July, 02 2021
 tags: [Delusions of a dying man]
