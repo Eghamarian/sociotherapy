@@ -29,8 +29,8 @@ I wanted to please her, but shutters were shut; naturally.<br>
 I licked her, cherished her, caressed her, worshiped her, but the window to the garden was foggy, the lock was rusty, and the frame was safeguarding the flood of 
 emotions coming through, <br>
 Understandably, <br>
-I arrived and she could wrap up, <br>
-She thought about the next stop; discretely, <br>
+So I focused hard to shorten her misery and I arrived; thankfully, 
+She wrapped up and thought about the next stop; discretely, <br>
 She checked her phone to judge who was worth responding to, <br>
 She quickly responded to a few, <br>
 I was empty as a man, but full of desire to remain, <br>
