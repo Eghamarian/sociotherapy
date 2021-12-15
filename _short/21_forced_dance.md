@@ -17,7 +17,8 @@ Looked for notes sitting on a side table,<br>
 She found them and turned on the character,<br>
 She started aggressive, which shows aggression statistics are high,<br>
 I invited her to calm down,<br>
-She calmed down and crawled into the bed, disgusted but consumed with consumerism,<br>
+She calmed down and crawled into the bed, <br>
+Disgusted but consumed with consumerism,<br>
 Bewildered by instagram trends and what she could buy with my cum,<br>
 I took off my clothes, reluctantly,<br>
 I crawled next to her and she overcame her inhibitions, seemingly successfully,<br>
