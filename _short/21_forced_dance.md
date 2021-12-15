@@ -19,7 +19,7 @@ She started aggressive, which shows many are need in need of trusted direction,<
 I invited her to calm down,<br>
 She looked puzzled but calmed down, and crawled into the bed, <br>
 Disgusted but consumed with consumerism,<br>
-Bewildered by instagram trends and what she could buy with my cum,<br>
+Bewildered by instagram trends and what she could buy with my semen,<br>
 I took off my clothes; hesitantly,<br>
 I crawled next to her and she overcame her inhibitions; seemingly successfully,<br>
 But what do I know; I am blind for being a man, <br>  
