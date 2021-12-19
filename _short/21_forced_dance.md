@@ -17,9 +17,8 @@ Looked for notes sitting on a side table,<br>
 She found them and turned on the character,<br>
 She started aggressive, which shows many are in need of trusted direction,<br>
 I invited her to calm down,<br>
-She looked puzzled but calmed down, and crawled into the bed, <br>
-She was consumed with consumerism,<br>
-Bewildered by instagram trends and what she could buy with my semen,<br>
+She looked puzzled but calmed down, and crawled into the bed with her phone, <br>
+She was consumed by instagram trends and what she could buy with my semen,<br>
 I took off my clothes; hesitantly,<br>
 I crawled next to her and she overcame my inhibitions; seemingly successfully,<br>
 But what do I know; I am blind for being a man, <br>  
