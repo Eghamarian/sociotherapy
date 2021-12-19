@@ -18,10 +18,10 @@ She found them and turned on the character,<br>
 She started aggressive, which shows many are in need of trusted direction,<br>
 I invited her to calm down,<br>
 She looked puzzled but calmed down, and crawled into the bed, <br>
-Disgusted but consumed with consumerism,<br>
-she was bewildered by instagram trends and what she could buy with my semen,<br>
+She was consumed with consumerism,<br>
+Bewildered by instagram trends and what she could buy with my semen,<br>
 I took off my clothes; hesitantly,<br>
-I crawled next to her and she overcame her inhibitions; seemingly successfully,<br>
+I crawled next to her and she overcame my inhibitions; seemingly successfully,<br>
 But what do I know; I am blind for being a man, <br>  
 I shut down and diverted my brain two floors down,<br>
 She let me, and encouraged me to end it soon; seductively,<br>
