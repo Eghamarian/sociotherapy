@@ -10,9 +10,9 @@ tags: [Delusions of a dying man]
 <div align="left">
 
 
-<audio id="player" preload="auto" autoplay loop>
-            <source src="assets/Loneliness.mp3" type="audio/mp3">
-    </audio>
+<audio id="player">
+  <source src="assets/Loneliness.mp3" /> 
+</audio> 
   
 </div>
 <br><br>
