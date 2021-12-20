@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Forced Dance
+title: The Sound of Loneliness - Intro
 img: "assets/img/short/forced_dance.pdf"
-date: Dec 14 2021
+date: Dec 19 2021
 tags: [Delusions of a dying man]
 ---
   
