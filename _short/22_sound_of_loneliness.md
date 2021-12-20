@@ -11,6 +11,10 @@ tags: [Delusions of a dying man]
 
 <iframe src="assets/Loneliness.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
   
+ <audio id="player" preload="auto" autoplay loop>
+            <source src="assets/Loneliness.mp3" type="audio/mp3">
+</audio>  
+  
 </div>
 <br><br>
 <br><br>
