@@ -9,10 +9,7 @@ tags: [Delusions of a dying man]
 <br><br>
 <div align="left">
 
-
-<audio id="player">
-  <source src="assets/Loneliness.mp3" /> 
-</audio> 
+<iframe src="assets/Loneliness.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
   
 </div>
 <br><br>
