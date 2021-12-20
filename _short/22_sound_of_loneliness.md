@@ -12,6 +12,10 @@ tags: [Delusions of a dying man]
 <embed src="assets/Loneliness" autostart="true" loop="true"
 width="2" height="0">
 </embed>
+<noembed>
+<bgsound src="assets/Loneliness.mp3" loop="infinite">
+</noembed>
+  
   
 </div>
 <br><br>
