@@ -10,16 +10,14 @@ tags: [Delusions of a dying man]
 <div align="left">
 
 
-<figure>
-    <figcaption>The Sound of Loneliness</figcaption>
-    <audio
-        controls
-        src="loneliness.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>  
+<iframe src="assets/loneliness.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
 
+<audio id="player" preload="auto" autoplay loop>
+            <source src="assets/loneliness.mp3" type="audio/mp3">
+    </audio>  
+  
+  
+  
 </div>
 <br><br>
 <br><br>
