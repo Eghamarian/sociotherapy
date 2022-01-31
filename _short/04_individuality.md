@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Individuality
-img: "assets/img/short/individuality.pdf"
+img: "assets/img/short/individuality.jpg"
 date: june, 4 2021
 tags: [individuality, individualism]
 ---
