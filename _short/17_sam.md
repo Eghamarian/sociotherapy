@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autistic Lag
-img: "assets/img/short/sam.pdf"
+img: "assets/img/short/sam.jpg"
 date: June, 30 2021
 tags: [My Name Is Sam]
 ---
