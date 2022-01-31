@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steretypes
-img: "assets/img/short/stereotype.pdf"
+img: "assets/img/short/stereotype.jpg"
 date: June, 26 2021
 tags: [gender, stereotypes]
 ---
