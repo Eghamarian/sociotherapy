@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hermione
-img: "assets/img/long/hermoine.pdf"
+img: "assets/img/long/hermoine.jpg"
 date: July, 03 2021
 tags: [hermione]
 ---
