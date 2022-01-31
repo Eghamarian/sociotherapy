@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jumping the Line for COVID Vaccine
-img: "assets/img/short/covid.pdf"
+img: "assets/img/short/covid.jpg"
 date: June, 17 2021
 tags: [Past, Rearsightedness]
 ---
