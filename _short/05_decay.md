@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decay
-img: "assets/img/short/decay.pdf"
+img: "assets/img/short/decay.jpg"
 date: June, 9 2021
 tags: [decay, birth, evolution]
 ---
