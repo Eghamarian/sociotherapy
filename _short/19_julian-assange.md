@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Justice For None
-img: "assets/img/short/justice.pdf"
+img: "assets/img/short/justice.jpg"
 date: July, 01 2021
 tags: [Julian Assange]
 ---
