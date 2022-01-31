@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bubbles
-img: "assets/img/short/bubbles.pdf"
+img: "assets/img/short/bubbles.jpg"
 date: May, 14 2021
 tags: [bubbles]
 ---
