@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Borders
-img: "assets/img/short/borders.jpg"
+img: "assets/img/short/borders.jpeg"
 date: June, 14 2021
 tags: [Refugees, Borders]
 ---
