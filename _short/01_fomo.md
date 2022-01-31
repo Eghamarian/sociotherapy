@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FOMO
-img: "assets/img/short/fomo.pdf"
+img: "assets/img/short/fomo.jpg"
 date: May, 14 2021
 tags: [fear of missing out, fomo]
 ---
