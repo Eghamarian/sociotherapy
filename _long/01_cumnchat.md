@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cum'n Chat
-img: "assets/img/long/cum'nchat.pdf"
+img: "assets/img/long/cum'nchat.jpg"
 date: June, 19 2021
 tags: [Cum'n Chat]
 ---
