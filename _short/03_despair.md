@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Despair
-img: "assets/img/short/despair.pdf"
+img: "assets/img/short/despair.jpg"
 date: May, 15 2021
 tags: [Despair, Desperation]
 ---
