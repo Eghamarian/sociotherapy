@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Painter
-img: "assets/img/short/painter.pdf"
+img: "assets/img/short/painter.jpg"
 date: June, 15 2021
 tags: [Painter]
 ---
