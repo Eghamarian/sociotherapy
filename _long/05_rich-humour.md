@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Games The Rich Play
-img: "assets/img/long/rich.pdf"
+img: "assets/img/long/rich.jpg"
 date: July, 09 2021
 tags: [games the rich play]
 ---
