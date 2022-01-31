@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rearsightedness
-img: "assets/img/short/rearsightedness.pdf"
+img: "assets/img/short/rearsightedness.jpg"
 date: June, 16 2021
 tags: [Past, Rearsightedness]
 ---
