@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ball
-img: "assets/img/long/ball.pdf"
+img: "assets/img/long/ball.jpg"
 date: July, 11 2021
 tags: [The ball]
 ---
